@@ -1,0 +1,5 @@
+Mon Feb 01 15:48:21 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getWeatherInformation utterance:S: do you want to know about other cities? U: book weather
+Mon Feb 01 16:00:09 IST 2021 domain:trip_en user:John sessionId:d1-GBR9Y5VZFIN6 clientIP:127.0.0.1 task:start utterance:S: What can I do for you? U: book me a weather
+Mon Feb 01 16:05:20 IST 2021 domain:trip_en user:John sessionId:d1-GBR9Y5VZFIN6 clientIP:127.0.0.1 task:start utterance:S: What can I do for you? U: 100
+Mon Feb 01 16:05:26 IST 2021 domain:trip_en user:John sessionId:d1-GBR9Y5VZFIN6 clientIP:127.0.0.1 task:start utterance:S: What can I do for you? U: 1+1
+Mon Feb 01 16:06:50 IST 2021 domain:trip_en user:John sessionId:d1-GBR9Y5VZFIN6 clientIP:127.0.0.1 task:getWeatherInformation utterance:S: do you want to know about other cities? U: tell me more about Pune

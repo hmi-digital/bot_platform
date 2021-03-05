@@ -1,0 +1,4 @@
+Mon Dec 28 11:08:12 IST 2020 domain:trip_en user:rohit sessionId:d3-TKT24LC2WDY1 clientIP:192.168.0.101 task:start utterance:S: How may I help you? U: How are you?
+Mon Dec 28 18:33:44 IST 2020 domain:trip_en user:rohit sessionId:d3-FXGE78CKFJSA clientIP:192.168.0.101 task:start utterance:S: What can I do for you? U: Hi
+Mon Dec 28 19:31:55 IST 2020 domain:trip_en user:John sessionId:d1-XYYVMUYLRCTY clientIP:192.168.0.101 task:start utterance:S: How may I help you? U: Hi
+Mon Dec 28 20:28:44 IST 2020 domain:trip_en user:puru sessionId:d1-C4TKI12PFBQU clientIP:192.168.0.101 task:start utterance:S: How may I help you? U: Hi

@@ -1,0 +1,6 @@
+Tue May 26 08:36:27 IST 2020 domain:banking_en user:John sessionId:d1-MDIG5DYGZLPA clientIP:192.168.0.101 task:fundTransfer utterance:S: last 4 digits of your account from which you want to transfer the money? U: cancel the stock
+Tue May 26 14:42:37 IST 2020 domain:banking_en user:test sessionId: clientIP: task:EVT_getDetails utterance:S: What type of loan would you want to avail? U: auto
+Tue May 26 14:44:45 IST 2020 domain:banking_en user:test sessionId: clientIP: task:EVT_getDetails utterance:S: What type of loan would you want to avail? U: JP Morgan
+Tue May 26 18:47:36 IST 2020 domain:banking_en user:John sessionId:d1-AUS5VMBZ8NJG clientIP:192.168.0.101 task:start utterance:S: How may I help you? U: how can I change the pin of my credit card
+Tue May 26 18:48:01 IST 2020 domain:banking_en user:John sessionId:d1-AUS5VMBZ8NJG clientIP:192.168.0.101 task:start utterance:S: What can I do for you? U: how can I change pin
+Tue May 26 19:02:35 IST 2020 domain:banking_en user:John sessionId:d1-AUS5VMBZ8NJG clientIP:192.168.0.101 task:EVT_getLoanOption utterance:S: Are you interested in any of our Loan products? U: 3690

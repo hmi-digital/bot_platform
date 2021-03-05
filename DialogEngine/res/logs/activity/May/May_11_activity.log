@@ -1,0 +1,2 @@
+Fri May 11 17:23:30 IST 2018 domain:trip_en user:Darshan sessionId:d1-NDTN4JTXQZMF clientIP:10.88.250.126 task:getWeatherInformation TYPE:HTTPAction@66878248
+Fri May 11 17:24:05 IST 2018 domain:trip_en user:Darshan sessionId:d1-NDTN4JTXQZMF clientIP:10.88.250.126 task:getTripInformation TYPE:GroovyAction@5b3560c0

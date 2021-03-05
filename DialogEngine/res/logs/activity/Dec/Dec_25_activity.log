@@ -1,0 +1,4 @@
+Tue Dec 25 12:17:35 IST 2018 domain:trip_en user:John sessionId:d1-5LYTP95CSA7M clientIP:10.88.250.75 task:cancelTask TYPE:GroovyAction@474c36a0
+Tue Dec 25 12:17:51 IST 2018 domain:trip_en user:John sessionId:d1-5LYTP95CSA7M clientIP:10.88.250.75 task:getWeatherInformation TYPE:HTTPAction@633735cf
+Tue Dec 25 20:16:02 IST 2018 domain:trip_en user:John sessionId:d1-HMGBMJFM4TRS clientIP:192.168.0.101 task:getTripInformation TYPE:GroovyAction@2da95f24
+Tue Dec 25 20:19:59 IST 2018 domain:trip_en user:John sessionId:d1-WVDB3B4KOLG1 clientIP:192.168.0.101 task:getTripInformation TYPE:GroovyAction@4812d264

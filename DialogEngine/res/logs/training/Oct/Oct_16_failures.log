@@ -1,0 +1,2 @@
+Fri Oct 16 19:43:26 IST 2020 domain:banking_en user:John sessionId:d1-VKP59MWAMXMQ clientIP:192.168.0.101 task:fundTransfer utterance:S: last 4 digits of your account from which you want to transfer the money? U: what is my available credit balance
+Fri Oct 16 19:44:41 IST 2020 domain:banking_en user:John sessionId:d1-VKP59MWAMXMQ clientIP:192.168.0.101 task:fundTransfer utterance:S: what date you would initiate this transfer? U: it is thousand Dollars

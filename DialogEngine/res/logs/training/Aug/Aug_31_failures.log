@@ -1,0 +1,3 @@
+Mon Aug 31 10:00:06 IST 2020 domain:gmeter_en user:John sessionId:d1-M39DURTTMIIC clientIP:192.168.0.100 task:getGmeterGuide utterance:S: Do you need DIY assistance? U: ok
+Mon Aug 31 10:06:35 IST 2020 domain:gmeter_en user:John sessionId:d4-GR5XHLL40I5A clientIP:192.168.0.100 task:start utterance:S: How may I help you? U: gmeter
+Mon Aug 31 16:13:35 IST 2020 domain:gmeter_en user:John sessionId:d12-KZ6J9PH4MMLH clientIP:192.168.0.100 task:start utterance:S: What can I do for you? U: metee

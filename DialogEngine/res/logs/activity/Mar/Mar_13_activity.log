@@ -1,0 +1,3 @@
+Fri Mar 13 19:40:41 IST 2020 domain:finovate_en user:John sessionId:d1-BMFLAIGGERTN clientIP:192.168.0.102 task:getCreditCardLimit TYPE:GroovyAction@d048546
+Fri Mar 13 19:41:54 IST 2020 domain:finovate_en user:John sessionId:d1-BMFLAIGGERTN clientIP:192.168.0.102 task:createGoal TYPE:GroovyAction@51ccb688
+Fri Mar 13 19:41:54 IST 2020 domain:finovate_en user:John sessionId:d1-BMFLAIGGERTN clientIP:192.168.0.102 task:tsk_notification TYPE:GroovyAction@3a2af8b3

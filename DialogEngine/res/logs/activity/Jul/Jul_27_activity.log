@@ -1,0 +1,4 @@
+Mon Jul 27 10:27:23 IST 2020 domain:banking_en user:k sessionId:d1-1BQQ8LJMDPE0 clientIP:192.168.0.104 task:fundTransfer TYPE:GroovyAction@33e49ba3
+Mon Jul 27 10:28:21 IST 2020 domain:banking_en user:k sessionId:d1-1BQQ8LJMDPE0 clientIP:192.168.0.104 task:cancelTask TYPE:GroovyAction@41a9658b
+Mon Jul 27 10:28:30 IST 2020 domain:banking_en user:k sessionId:d1-1BQQ8LJMDPE0 clientIP:192.168.0.104 task:getTransactions TYPE:GroovyAction@7ba5a5c2
+Mon Jul 27 10:47:01 IST 2020 domain:banking_en user:j sessionId:d2-AVOJSC3TBM1M clientIP:192.168.0.104 task:getTransactions TYPE:GroovyAction@1621d049

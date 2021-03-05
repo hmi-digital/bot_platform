@@ -1,0 +1,13 @@
+Wed Apr 18 21:11:14 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation TYPE:GroovyAction@67f639d3
+Wed Apr 18 21:28:06 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation TYPE:GroovyAction@4b45a2f5
+Wed Apr 18 21:36:21 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation TYPE:GroovyAction@67f639d3
+Wed Apr 18 21:37:21 IST 2018 domain:trip user:John sessionId:d1-EPCNWIOUUPQV clientIP:192.168.0.102 task:getTripInformation TYPE:GroovyAction@4a6daee6
+Wed Apr 18 21:43:04 IST 2018 domain:trip user:John sessionId:d1-LRFB3NPKNRYI clientIP:192.168.0.102 task:getTripInformation TYPE:GroovyAction@430b5e2
+Wed Apr 18 21:43:16 IST 2018 domain:trip user:John sessionId:d1-LRFB3NPKNRYI clientIP:192.168.0.102 task:getWeatherInformation TYPE:HTTPAction@4fbc5c75
+Wed Apr 18 23:08:14 IST 2018 domain:trip user:John sessionId:d1-UQRWYFKNQHJH clientIP:192.168.0.102 task:getTripInformation TYPE:GroovyAction@d872a95
+Wed Apr 18 23:08:34 IST 2018 domain:trip user:John sessionId:d1-UQRWYFKNQHJH clientIP:192.168.0.102 task:getWeatherInformation TYPE:HTTPAction@357426e2
+Wed Apr 18 23:09:39 IST 2018 domain:trip user:John sessionId:d1-UQRWYFKNQHJH clientIP:192.168.0.102 task:cancelTask TYPE:GroovyAction@77e29fff
+Wed Apr 18 23:12:33 IST 2018 domain:trip user:John sessionId:d1-AVKJYPAXBOQD clientIP:192.168.0.102 task:getTripInformation TYPE:GroovyAction@394b1b03
+Wed Apr 18 23:12:42 IST 2018 domain:trip user:John sessionId:d1-AVKJYPAXBOQD clientIP:192.168.0.102 task:getWeatherInformation TYPE:HTTPAction@b470ea9
+Wed Apr 18 23:15:26 IST 2018 domain:trip user:John sessionId:d1-ICI0KZOUKWUH clientIP:192.168.0.102 task:getTripInformation TYPE:GroovyAction@1803ce08
+Wed Apr 18 23:17:15 IST 2018 domain:trip user:John sessionId:d2-CKH0WVNGDJ1J clientIP:192.168.0.102 task:getWeatherInformation TYPE:HTTPAction@43da6d2e

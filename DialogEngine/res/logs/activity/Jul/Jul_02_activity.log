@@ -1,0 +1,6 @@
+Thu Jul 02 19:26:01 IST 2020 domain:banking_en user:test sessionId: clientIP: task:fundTransfer TYPE:GroovyAction@4f18837a
+Thu Jul 02 19:26:14 IST 2020 domain:banking_en user:test sessionId: clientIP: task:cancelTask TYPE:GroovyAction@53251a66
+Thu Jul 02 19:35:59 IST 2020 domain:banking_en user:John sessionId:d1-ZCFL9PUAGOV5 clientIP:127.0.0.1 task:fundTransfer TYPE:GroovyAction@6c8fe92d
+Thu Jul 02 19:36:08 IST 2020 domain:banking_en user:John sessionId:d1-ZCFL9PUAGOV5 clientIP:127.0.0.1 task:getTransactions TYPE:GroovyAction@17d35fc5
+Thu Jul 02 19:37:44 IST 2020 domain:trip_hi user:John sessionId:d1-KFVMGKX2A1XP clientIP:127.0.0.1 task:getWeatherInformation TYPE:HTTPAction@5a84a45a
+Thu Jul 02 19:41:51 IST 2020 domain:trip_hi user:John sessionId:d1-Y9KKQX9RUYGM clientIP:127.0.0.1 task:getWeatherInformation TYPE:HTTPAction@2a8efca6

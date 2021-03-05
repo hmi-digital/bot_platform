@@ -1,0 +1,7 @@
+Sun Jun 21 10:45:27 IST 2020 domain:trip_en user:John sessionId:d1-EAPC7B8G2KRC clientIP:127.0.0.1 task:cancelTask TYPE:GroovyAction@69969285
+Sun Jun 21 11:36:45 IST 2020 domain:trip_en user:John sessionId:d7-6PQFWLYP1LDP clientIP:127.0.0.1 task:getTripInformation TYPE:GroovyAction@609a0b2e
+Sun Jun 21 11:37:50 IST 2020 domain:trip_en user:John sessionId:d10-UKVVNUQN11AM clientIP:127.0.0.1 task:cancelTask TYPE:GroovyAction@459f5ea
+Sun Jun 21 14:03:46 IST 2020 domain:trip_en user:John sessionId:d1-NC5K1CGGPMYK clientIP:127.0.0.1 task:getWeatherInformation TYPE:HTTPAction@604fc004
+Sun Jun 21 14:05:51 IST 2020 domain:trip_en user:John sessionId:d1-TAW8QN3SCZ3S clientIP:127.0.0.1 task:getWeatherInformation TYPE:HTTPAction@f598d0c
+Sun Jun 21 14:33:58 IST 2020 domain:insight_en user:John sessionId:d1-OIPDJBG2IN0N clientIP:127.0.0.1 task:changeTimeFilter TYPE:GroovyAction@2e902d50
+Sun Jun 21 15:18:16 IST 2020 domain:insight_en user:John sessionId:d2-L2WTLANVFKMU clientIP:127.0.0.1 task:changeTimeFilter TYPE:GroovyAction@3ddc56a

@@ -1,0 +1,9 @@
+Tue Jul 28 10:14:32 IST 2020 domain:test user:john sessionId:d1-MXZQFSJTPYZT clientIP:0:0:0:0:0:0:0:1 task:start utterance:S: What can I do for you? U: test the
+Tue Jul 28 21:44:04 IST 2020 domain:trip_en user:John sessionId:d3-11SMMDRHDPVN clientIP:192.168.0.105 task:getTripInformation utterance:S: for how many persons? U: 44 position
+Tue Jul 28 21:53:20 IST 2020 domain:trip_en user:John sessionId:d5-YCQ0TNDGHSIU clientIP:192.168.0.103 task:start utterance:S: What can I do for you? U: Good morning
+Tue Jul 28 22:01:35 IST 2020 domain:trip_en user:John sessionId:d8-2KQPPTJRUCLC clientIP:192.168.0.103 task:start utterance:S: How may I help you? U: Good morning
+Tue Jul 28 22:08:43 IST 2020 domain:trip_en user:John sessionId:d9-EP7OOIW3I8AK clientIP:192.168.0.105 task:getTripInformation utterance:S: what city do you want to travel? U: Good morning
+Tue Jul 28 22:09:02 IST 2020 domain:trip_en user:John sessionId:d9-EP7OOIW3I8AK clientIP:192.168.0.105 task:getTripInformation utterance:S: for how many persons? U: Good morning
+Tue Jul 28 22:56:22 IST 2020 domain:trip_en user:John sessionId:d15-BIUEZIKMGIQU clientIP:192.168.0.103 task:getTripInformation utterance:S: where do you want to go? U: Good Morning
+Tue Jul 28 23:00:48 IST 2020 domain:trip_en user:John sessionId:d16-WDHBL6SVL6QY clientIP:192.168.0.103 task:getTripInformation utterance:S: what city do you want to travel? U: Good Morning
+Tue Jul 28 23:02:02 IST 2020 domain:trip_en user:John sessionId:d17-QXXUOP7J2CFG clientIP:192.168.0.103 task:start utterance:S: How may I help you? U: Good Morning

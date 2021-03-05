@@ -1,0 +1,13 @@
+Sat Jun 09 13:44:31 IST 2018 domain:trip_en user:John sessionId:d1-8LTCDDDJNEIG clientIP:192.168.0.103 task:getTripInformation utterance:S: where do you want to go? U: today ?
+Sat Jun 09 17:47:57 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: which class would you like to travel? U: businesss
+Sat Jun 09 17:58:48 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: when do you want to come back? U: Sturday
+Sat Jun 09 18:44:39 IST 2018 domain:trip_test user:test sessionId: clientIP: task:start utterance:S: Hi test , How may I help you? U: Book
+Sat Jun 09 22:06:02 IST 2018 domain:trip_test user:test sessionId: clientIP: task:getTripInformation utterance:S: where do you want to go? U: sachin
+Sat Jun 09 22:06:06 IST 2018 domain:trip_test user:test sessionId: clientIP: task:getTripInformation utterance:S: where do you want to go? U: sachin
+Sat Jun 09 22:06:20 IST 2018 domain:trip_test user:test sessionId: clientIP: task:getTripInformation utterance:S: for how many persons to Pune ? U: sachin
+Sat Jun 09 22:06:23 IST 2018 domain:trip_test user:test sessionId: clientIP: task:getTripInformation utterance:S: for how many persons to Pune ? U: sachin
+Sat Jun 09 22:46:52 IST 2018 domain:trip_test user:test sessionId: clientIP: task:start utterance:S: Hi test , How may I help you? U: #test ? Mumbai
+Sat Jun 09 22:49:08 IST 2018 domain:trip_test user:test sessionId: clientIP: task:start utterance:S: Hi test , How may I help you? U: #test ? Mumbai
+Sat Jun 09 22:50:15 IST 2018 domain:trip_test user:test sessionId: clientIP: task:start utterance:S: Hi test , How may I help you? U: #test Mumbai
+Sat Jun 09 22:58:37 IST 2018 domain:trip_test user:test sessionId: clientIP: task:start utterance:S: Hi test , How may I help you? U: I want to test
+Sat Jun 09 22:59:55 IST 2018 domain:trip_test user:test sessionId: clientIP: task:start utterance:S: Hi test , How may I help you? U: I want to test

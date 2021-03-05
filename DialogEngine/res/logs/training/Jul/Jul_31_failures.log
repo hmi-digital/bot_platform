@@ -1,0 +1,10 @@
+Fri Jul 31 10:29:47 IST 2020 domain:gmeter_en user:test sessionId: clientIP: task:start utterance:S: How may I help you? U: other help
+Fri Jul 31 10:30:09 IST 2020 domain:gmeter_en user:test sessionId: clientIP: task:start utterance:S: How may I help you? U: @gMeterOthers
+Fri Jul 31 12:21:48 IST 2020 domain:gmeter_en user:john sessionId:d5-C64UTWQINA7A clientIP:127.0.0.1 task:getGmeterGuide utterance:S: Do you need DIY assistance? U: OK
+Fri Jul 31 13:43:42 IST 2020 domain:banking_en user:john sessionId:d1-QL95BKO0KHVO clientIP:127.0.0.1 task:start utterance:S: What can I do for you? U: OK
+Fri Jul 31 13:48:11 IST 2020 domain:gmeter_en user:john sessionId:d1-2XEVDGVAVCEI clientIP:127.0.0.1 task:getGmeterGuide utterance:S: Do you need DIY assistance? U: OK
+Fri Jul 31 15:00:05 IST 2020 domain:gmeter_en user:john sessionId:d1-K8QRASL9GB2I clientIP:127.0.0.1 task:start utterance:S: How may I help you? U: OK
+Fri Jul 31 17:12:53 IST 2020 domain:gmeter_en user:john sessionId:d1-L8FXV262QQ6F clientIP:127.0.0.1 task:start utterance:S: What can I do for you? U: ok
+Fri Jul 31 17:19:50 IST 2020 domain:gmeter_en user:john sessionId:d1-L8FXV262QQ6F clientIP:127.0.0.1 task:start utterance:S: What can I do for you? U: need help on supplies
+Fri Jul 31 19:57:52 IST 2020 domain:gmeter_en user:John sessionId:d1-Q1GWMBC4WBYO clientIP:192.168.0.103 task:start utterance:S: How may I help you? U: Order supplies
+Fri Jul 31 20:05:00 IST 2020 domain:gmeter_en user:John sessionId:d3-WUNSRAZO1IMH clientIP:192.168.0.107 task:getGmeterGuide utterance:S: Do you need DIY assistance? U: ft

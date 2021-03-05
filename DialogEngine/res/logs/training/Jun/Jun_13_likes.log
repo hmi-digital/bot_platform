@@ -1,0 +1,12 @@
+Wed Jun 13 12:15:24 IST 2018 domain:trip_en user:John sessionId:d2-BOXDZSMXTZFI clientIP:10.88.246.15 task:getWeatherInformation utterance:U: #getWeatherInformation S: The temperature in Mumbai is ??.?? degrees.
+Wed Jun 13 12:18:34 IST 2018 domain:trip_en user:John sessionId:d1-US3BG8WJSKRE clientIP:10.88.246.15 task:getWeatherInformation utterance:U: #getWeatherInformation S: The temperature in Pune is ??.? degrees.
+Wed Jun 13 12:19:00 IST 2018 domain:trip_en user:John sessionId:d1-US3BG8WJSKRE clientIP:10.88.246.15 task:DOMAIN_FAQ utterance:U: what is ???? S: ATM is cash withdrawl machine. 
+Wed Jun 13 12:19:00 IST 2018 domain:trip_en user:John sessionId:d1-US3BG8WJSKRE clientIP:10.88.246.15 task:DOMAIN_FAQ utterance:U: what is ???? S: ATM is cash withdrawl machine. 
+Wed Jun 13 12:19:01 IST 2018 domain:trip_en user:John sessionId:d1-US3BG8WJSKRE clientIP:10.88.246.15 task:DOMAIN_FAQ utterance:U: what is ???? S: ATM is cash withdrawl machine. 
+Wed Jun 13 12:19:16 IST 2018 domain:trip_en user:John sessionId:d1-US3BG8WJSKRE clientIP:10.88.246.15 task:DOMAIN_FAQ utterance:U: what is ???? S: ATM is cash withdrawl machine. 
+Wed Jun 13 12:19:37 IST 2018 domain:trip_en user:John sessionId:d1-US3BG8WJSKRE clientIP:10.88.246.15 task:DOMAIN_FAQ utterance:U: what is ???? S: ATM is cash withdrawl machine. 
+Wed Jun 13 12:20:03 IST 2018 domain:trip_en user:John sessionId:d1-US3BG8WJSKRE clientIP:10.88.246.15 task:getWeatherInformation utterance:U: #getWeatherInformation S: The temperature in London is ??.?? degrees.
+Wed Jun 13 14:01:55 IST 2018 domain:trip_en user:John sessionId:d1-US3BG8WJSKRE clientIP:10.88.246.15 task:getTripInformation utterance:U: #getTripInformation S: Hey John and d?-???????????? , this trip to Pune costs ??? Dollars. We have taken additional info Good; and getInfo as well as Business
+Wed Jun 13 14:02:14 IST 2018 domain:trip_en user:John sessionId:d1-US3BG8WJSKRE clientIP:10.88.246.15 task:DOMAIN_FAQ utterance:U: what is ??? ? S: ATM is cash withdrawl machine. 
+Wed Jun 13 14:03:15 IST 2018 domain:trip_en user:John sessionId:d1-US3BG8WJSKRE clientIP:10.88.246.15 task:getTripInformation utterance:U: #getTripInformation S: Hey John and d?-???????????? , this trip to Mumbai costs ??? Dollars. We have taken additional info ??od; and getInfo as well as First
+Wed Jun 13 14:04:27 IST 2018 domain:trip_en user:John sessionId:d1-US3BG8WJSKRE clientIP:10.88.246.15 task:DOMAIN_FAQ utterance:U: what is ??? ? S: ATM is cash withdrawl machine. 

@@ -1,0 +1,6 @@
+Mon Apr 09 17:29:51 IST 2018 domain:trip user: sessionId: clientIP: task:getWeatherInformation TYPE:HTTPAction@60099951
+Mon Apr 09 17:30:04 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation TYPE:GroovyAction@4a83a74a
+Mon Apr 09 17:30:52 IST 2018 domain:trip user: sessionId: clientIP: task:getWeatherInformation TYPE:HTTPAction@60099951
+Mon Apr 09 17:31:54 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation TYPE:GroovyAction@1a942c18
+Mon Apr 09 17:43:15 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation TYPE:GroovyAction@1a942c18
+Mon Apr 09 17:50:40 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation TYPE:GroovyAction@1a942c18

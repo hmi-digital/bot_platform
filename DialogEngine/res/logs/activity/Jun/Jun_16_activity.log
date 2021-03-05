@@ -1,0 +1,5 @@
+Tue Jun 16 12:04:41 IST 2020 domain:insight_en user:John sessionId:d1-UCPV6TSEPMM1 clientIP:127.0.0.1 task:changeTimeFilter TYPE:GroovyAction@aa1c724
+Tue Jun 16 12:05:36 IST 2020 domain:insight_en user:John sessionId:d1-UCPV6TSEPMM1 clientIP:127.0.0.1 task:changeGeoFilter TYPE:GroovyAction@1aff2a9
+Tue Jun 16 12:08:26 IST 2020 domain:insight_en user:John sessionId:d1-UCPV6TSEPMM1 clientIP:127.0.0.1 task:changeTimeFilter TYPE:GroovyAction@aa1c724
+Tue Jun 16 12:23:16 IST 2020 domain:insight_en user:Amit sessionId:d1-Z9ZIRTTWGJ13 clientIP:127.0.0.1 task:changeTimeFilter TYPE:GroovyAction@4763be1
+Tue Jun 16 12:25:34 IST 2020 domain:insight_en user:John sessionId:d2-W1S9ABPQQUOP clientIP:127.0.0.1 task:changeTimeFilter TYPE:GroovyAction@ebec4eb

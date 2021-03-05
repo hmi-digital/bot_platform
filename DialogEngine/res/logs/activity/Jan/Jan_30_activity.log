@@ -1,0 +1,8 @@
+Sat Jan 30 16:38:32 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getTripInformation TYPE:GroovyAction@4642b71d
+Sat Jan 30 16:38:45 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getWeatherInformation TYPE:HTTPAction@7a8406c2
+Sat Jan 30 17:38:51 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getWeatherInformation TYPE:HTTPAction@3122b117
+Sat Jan 30 20:07:57 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getTripInformation TYPE:GroovyAction@5c089b2f
+Sat Jan 30 20:08:03 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getWeatherInformation TYPE:HTTPAction@75961f16
+Sat Jan 30 20:08:23 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:cancelTask TYPE:GroovyAction@75ae4a1f
+Sat Jan 30 23:59:39 IST 2021 domain:trip_en user:John sessionId:d1-0PN5RICDCCXM clientIP:127.0.0.1 task:cancelTask TYPE:GroovyAction@69e1108a
+Sat Jan 30 23:59:45 IST 2021 domain:trip_en user:John sessionId:d2-H5JUBTBI4GPK clientIP:127.0.0.1 task:getWeatherInformation TYPE:HTTPAction@416a6125

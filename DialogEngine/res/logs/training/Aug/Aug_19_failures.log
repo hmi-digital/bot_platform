@@ -1,0 +1,3 @@
+Mon Aug 19 10:02:36 IST 2019 domain:finovate_v2 user:John sessionId:d1-AZHOUGT0ZB3J clientIP:10.88.250.110 task:start utterance:S: What can I do for you? U: what is my bag
+Mon Aug 19 10:02:46 IST 2019 domain:finovate_v2 user:John sessionId:d1-AZHOUGT0ZB3J clientIP:10.88.250.110 task:start utterance:S: How may I help you? U: what is my balance credit card limit
+Mon Aug 19 16:11:23 IST 2019 domain:trip_en user:John sessionId:d1-FWEZY4RG831S clientIP:10.88.250.110 task:getTripInformation utterance:S: what city do you want to travel? U: how do I apply for credit card

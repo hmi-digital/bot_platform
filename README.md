@@ -23,9 +23,10 @@ Download [Docker Desktop for Mac or Windows](https://store.docker.com/editions/c
 Architecture
 ------------
 Bot platform requires following services -  
-    Broker Engine - consist of Zookeeper (Container #1) and Kafka (COntainer #2)
-    NLP Engine - (Container #3)
-    Dialog Engine - (Container #4)
+    
+- Broker Engine - consist of Zookeeper (Container #1) and Kafka (COntainer #2)
+- NLP Engine - (Container #3)
+- Dialog Engine - (Container #4)
 
 The architecture shows different services and their interaction -
 

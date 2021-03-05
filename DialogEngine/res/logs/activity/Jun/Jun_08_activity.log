@@ -1,0 +1,9 @@
+Fri Jun 08 14:27:05 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation TYPE:GroovyAction@67f639d3
+Fri Jun 08 14:47:56 IST 2018 domain:trip_en user:John sessionId:d1-TYEAEL0EPPFF clientIP:10.88.248.94 task:getTripInformation TYPE:GroovyAction@4398d6ef
+Fri Jun 08 14:51:38 IST 2018 domain:trip_en user:John sessionId:d1-TYEAEL0EPPFF clientIP:10.88.248.94 task:getWeatherInformation TYPE:HTTPAction@61412710
+Fri Jun 08 15:01:04 IST 2018 domain:trip_en user:John sessionId:d1-DFOVL9ACM5AD clientIP:10.88.248.94 task:getWeatherInformation TYPE:HTTPAction@5d67a358
+Fri Jun 08 15:02:00 IST 2018 domain:trip_en user:John sessionId:d1-DFOVL9ACM5AD clientIP:10.88.248.94 task:getTripInformation TYPE:GroovyAction@7dd8ccd5
+Fri Jun 08 15:48:40 IST 2018 domain:trip_en user:John sessionId:d1-5C7EBSGNDDUH clientIP:10.88.248.94 task:getTripInformation TYPE:GroovyAction@62bf5e4c
+Fri Jun 08 22:28:29 IST 2018 domain:trip_en user:John sessionId:d1-SQJMTYXZZCOO clientIP:192.168.0.102 task:getTripInformation TYPE:GroovyAction@109cc4db
+Fri Jun 08 23:13:21 IST 2018 domain:trip_en user:John sessionId:d1-JUHIHLFWCBRM clientIP:192.168.0.102 task:getTripInformation TYPE:GroovyAction@778cdbf2
+Fri Jun 08 23:17:03 IST 2018 domain:trip_en user:John sessionId:d2-PVRFPT4INLKP clientIP:192.168.0.102 task:getTripInformation TYPE:GroovyAction@3b1fed4b

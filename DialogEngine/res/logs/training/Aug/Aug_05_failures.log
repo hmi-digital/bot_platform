@@ -1,0 +1,4 @@
+Wed Aug 05 15:48:07 IST 2020 domain:gmeter_en user:John sessionId:d5-ZI8WWC8R9CRB clientIP:192.168.0.107 task:start utterance:S: How may I help you? U: hotels looking metre
+Wed Aug 05 17:38:52 IST 2020 domain:gmeter_en user:John sessionId:d3-MPZ03RTZR2TK clientIP:192.168.0.107 task:start utterance:S: What can I do for you? U: what is blue committee
+Wed Aug 05 17:39:14 IST 2020 domain:gmeter_en user:John sessionId:d3-MPZ03RTZR2TK clientIP:192.168.0.107 task:getGmeterGuide utterance:S: Do you need DIY assistance? U: ok
+Wed Aug 05 17:39:36 IST 2020 domain:gmeter_en user:John sessionId:d3-MPZ03RTZR2TK clientIP:192.168.0.107 task:getGmeterGuide utterance:S: Do you need DIY assistance? U: SP

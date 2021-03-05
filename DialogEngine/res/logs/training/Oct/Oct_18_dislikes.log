@@ -1,0 +1,2 @@
+Thu Oct 18 21:12:59 IST 2018 domain:trip_en user:John sessionId:d1-OXOTYT8J4BKA clientIP:192.168.0.106 task:getTripInformation utterance:U: #getTripInformation S: Hey John , this trip to Mumbai costs 255 Dollars.
+Thu Oct 18 21:13:08 IST 2018 domain:trip_en user:John sessionId:d1-OXOTYT8J4BKA clientIP:192.168.0.106 task:getWeatherInformation utterance:U: #getWeatherInformation S: The temperature in Mumbai is 29 degrees.

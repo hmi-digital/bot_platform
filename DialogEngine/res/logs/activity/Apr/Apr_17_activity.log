@@ -1,0 +1,12 @@
+Tue Apr 17 11:48:56 IST 2018 domain:trip user: sessionId: clientIP: task:cancelTask TYPE:GroovyAction@f09733f
+Tue Apr 17 12:39:32 IST 2018 domain:trip_da user: sessionId: clientIP: task:getWeatherInformation TYPE:HTTPAction@12591ac8
+Tue Apr 17 12:40:39 IST 2018 domain:trip_da user: sessionId: clientIP: task:getWeatherInformation TYPE:HTTPAction@12591ac8
+Tue Apr 17 13:43:31 IST 2018 domain:trip_da user: sessionId: clientIP: task:getWikipediaCityInfo TYPE:HTTPAction@12591ac8
+Tue Apr 17 14:04:23 IST 2018 domain:trip_da user: sessionId: clientIP: task:getWikipediaCityInfo TYPE:HTTPAction@1b66c0fb
+Tue Apr 17 14:05:41 IST 2018 domain:trip_da user: sessionId: clientIP: task:getWeatherInformation TYPE:HTTPAction@68878f6d
+Tue Apr 17 14:05:41 IST 2018 domain:trip_da user: sessionId: clientIP: task:getWikipediaCityInfo TYPE:HTTPAction@1b66c0fb
+Tue Apr 17 14:08:42 IST 2018 domain:trip_da user: sessionId: clientIP: task:getWeatherInformation TYPE:HTTPAction@12591ac8
+Tue Apr 17 14:22:59 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation TYPE:GroovyAction@4b45a2f5
+Tue Apr 17 14:38:57 IST 2018 domain:trip_da user: sessionId: clientIP: task:getTripInformation TYPE:GroovyAction@5e3f861
+Tue Apr 17 15:31:48 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation TYPE:GroovyAction@47d9a273
+Tue Apr 17 15:32:24 IST 2018 domain:trip_da user: sessionId: clientIP: task:getWeatherInformation TYPE:HTTPAction@12591ac8

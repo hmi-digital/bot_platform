@@ -1,0 +1,26 @@
+Wed Sep 16 11:30:55 IST 2020 domain:gmeter_en user:John sessionId:d3-M3D3IRGLY25M clientIP:192.168.0.104 task:getGmeterGuide utterance:S: Do you need DIY assistance? U: ok
+Wed Sep 16 12:16:33 IST 2020 domain:gmeter_en user:John sessionId:d9-XSYJNLNQEX0F clientIP:192.168.0.104 task:getGmeterGuide utterance:S: Do you need DIY assistance? U: ok
+Wed Sep 16 12:27:06 IST 2020 domain:gmeter_en user:John sessionId:d2-MEPO39KLXKA0 clientIP:192.168.0.104 task:EVT_stepProcessor utterance:S:  U: vsk please
+Wed Sep 16 12:39:40 IST 2020 domain:gmeter_en user:John sessionId:d1-SZOIYGJVI1XJ clientIP:192.168.0.100 task:EVT_stepProcessor utterance:S:  U: previously please
+Wed Sep 16 12:57:54 IST 2020 domain:gmeter_en user:John sessionId:d2-RK307WELXA58 clientIP:192.168.0.100 task:EVT_stepProcessor utterance:S:  U: TV stick please
+Wed Sep 16 12:58:04 IST 2020 domain:gmeter_en user:John sessionId:d2-RK307WELXA58 clientIP:192.168.0.100 task:EVT_stepProcessor utterance:S:  U: TVS please
+Wed Sep 16 12:58:14 IST 2020 domain:gmeter_en user:John sessionId:d2-RK307WELXA58 clientIP:192.168.0.100 task:helpTask utterance:S: Seems you are not clear on this. Say Yes if you want to cancel this task or No to continue ! U: previous step please
+Wed Sep 16 12:58:25 IST 2020 domain:gmeter_en user:John sessionId:d2-RK307WELXA58 clientIP:192.168.0.100 task:helpTask utterance:S: Seems you are not clear on this. Say Yes if you want to cancel this task or No to continue ! U: NEXT
+Wed Sep 16 12:58:39 IST 2020 domain:gmeter_en user:John sessionId:d2-RK307WELXA58 clientIP:192.168.0.100 task:helpTask utterance:S: Seems you are not clear on this. Say Yes if you want to cancel this task or No to continue ! U: PREV
+Wed Sep 16 12:58:54 IST 2020 domain:gmeter_en user:John sessionId:d2-RK307WELXA58 clientIP:192.168.0.100 task:handoverTask utterance:S: Do you need any agent assistance, say Yes to chat with our agent or to restart, say No to continue ! U: NEXT
+Wed Sep 16 12:59:10 IST 2020 domain:gmeter_en user:John sessionId:d2-RK307WELXA58 clientIP:192.168.0.100 task:handoverTask utterance:S: Seems you are not clear on this. Say Yes if you want to cancel this task or No to continue ! U: NEXT
+Wed Sep 16 13:00:40 IST 2020 domain:gmeter_en user:John sessionId:d3-DOOOEXASDNRJ clientIP:192.168.0.100 task:EVT_stepProcessor utterance:S:  U: reply please
+Wed Sep 16 13:01:25 IST 2020 domain:gmeter_en user:John sessionId:d3-DOOOEXASDNRJ clientIP:192.168.0.100 task:EVT_stepProcessor utterance:S:  U: reply again
+Wed Sep 16 13:40:22 IST 2020 domain:gmeter_en user:John sessionId:d1-9UUSEURN51DP clientIP:192.168.0.100 task:start utterance:S: What can I do for you? U: metee
+Wed Sep 16 13:41:20 IST 2020 domain:gmeter_en user:John sessionId:d1-9UUSEURN51DP clientIP:192.168.0.100 task:getGmeterGuide utterance:S: Do you need DIY assistance? U: ok
+Wed Sep 16 13:48:01 IST 2020 domain:gmeter_en user:John sessionId:d1-9UUSEURN51DP clientIP:192.168.0.100 task:helpTask utterance:S: Seems you are not clear on this. Say Yes if you want to cancel this task or No to continue ! U: ok
+Wed Sep 16 13:54:22 IST 2020 domain:gmeter_en user:John sessionId:d2-4HGK1B1IVAO0 clientIP:192.168.0.100 task:EVT_stepProcessor utterance:S:  U: TVS is
+Wed Sep 16 14:24:43 IST 2020 domain:gmeter_en user:John sessionId:d2-NVVHWZGHTIRL clientIP:192.168.0.100 task:EVT_stepProcessor utterance:S:  U: TVS please
+Wed Sep 16 17:39:23 IST 2020 domain:router_en user:test sessionId: clientIP: task:routerIssues utterance:S: what type of issue you are currently facing? U: need to truobleshoot
+Wed Sep 16 20:45:13 IST 2020 domain:router_en user:test sessionId: clientIP: task:start utterance:S: How may I help you? U: I need some help on my router
+Wed Sep 16 20:52:08 IST 2020 domain:router_en user:test sessionId: clientIP: task:start utterance:S: How may I help you? U: proprovide me elp with my router
+Wed Sep 16 22:13:29 IST 2020 domain:router_en user:John sessionId:d1-N0XE0DXKD1GR clientIP:192.168.0.100 task:getRouterGuide utterance:S: Tell me what make are you using? U: it is bpq to 160
+Wed Sep 16 22:13:41 IST 2020 domain:router_en user:John sessionId:d1-N0XE0DXKD1GR clientIP:192.168.0.100 task:getRouterGuide utterance:S: Tell me what make are you using? U: it's DP cute 2160
+Wed Sep 16 22:36:32 IST 2020 domain:router_en user:Alen sessionId:d1-6XOR1QHA2FO3 clientIP:192.168.0.100 task:getRouterGuide utterance:S: Tell me what make are you using? U: bpq to 160;
+Wed Sep 16 22:53:21 IST 2020 domain:router_en user:test sessionId: clientIP: task:start utterance:S: How may I help you? U: need some help on my router
+Wed Sep 16 23:01:11 IST 2020 domain:gmeter_en user:John sessionId:d1-HNQUKFUCDVNU clientIP:127.0.0.1 task:start utterance:S: How may I help you? U: help me locate supplier

@@ -1,0 +1,7 @@
+Wed Oct 14 17:20:38 IST 2020 domain:banking_cee user:test sessionId: clientIP: task:start utterance:S: How may I help you? U: show my available credit limit
+Wed Oct 14 17:24:01 IST 2020 domain:banking_cee user:test sessionId: clientIP: task:start utterance:S: How may I help you? U: wwaht is my available credit limit
+Wed Oct 14 17:30:59 IST 2020 domain:banking_cee user:test sessionId: clientIP: task:start utterance:S: What can I do for you? U: what is credit balance
+Wed Oct 14 17:32:57 IST 2020 domain:banking_cee user:test sessionId: clientIP: task:start utterance:S: How may I help you? U: what is my available credit balance
+Wed Oct 14 17:59:42 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d2-5UVJLJHOHCO5 clientIP:192.168.0.101 task:EVT_getConfirmation utterance:S: <br>Please acknowledge the recipt of your credit card ending with 9010? U: yes I am acknowledging
+Wed Oct 14 22:59:07 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d1-W6J06I4QGM6J clientIP:192.168.0.101 task:accountBalance utterance:S: last 4 digits of your account? U: 30 36 90
+Wed Oct 14 23:00:14 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d2-KGUXYDR16WBX clientIP:192.168.0.101 task:start utterance:S: How may I help you? U: what is my available credit balance

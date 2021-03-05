@@ -1,0 +1,8 @@
+Wed Feb 19 10:58:26 IST 2020 domain:trip_en user:test sessionId: clientIP: task:getTripInformation utterance:S: for how many persons? U: Darshan@123
+Wed Feb 19 11:11:50 IST 2020 domain:trip_en user:test sessionId: clientIP: task:getTripInformation utterance:S: for how many persons? U: Darshan@123
+Wed Feb 19 11:15:24 IST 2020 domain:trip_en user:test sessionId: clientIP: task:getTripInformation utterance:S: for how many persons? U: darshaN@123
+Wed Feb 19 11:22:45 IST 2020 domain:trip_en user:test sessionId: clientIP: task:getTripInformation utterance:S: for how many persons? U: Darsh@12
+Wed Feb 19 11:34:34 IST 2020 domain:trip_en user:test sessionId: clientIP: task:getTripInformation utterance:S: for how many persons? U: Darshan@123
+Wed Feb 19 11:39:04 IST 2020 domain:trip_en user:test sessionId: clientIP: task:getTripInformation utterance:S: for how many persons? U: password is Darshan@123
+Wed Feb 19 11:42:37 IST 2020 domain:trip_en user:test sessionId: clientIP: task:start utterance:S: What can I do for you? U: bok
+Wed Feb 19 12:24:35 IST 2020 domain:trip_en user:test sessionId: clientIP: task:start utterance:S: What can I do for you? U: Need to test

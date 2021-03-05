@@ -1,0 +1,3 @@
+Sat Jan 27 10:11:29 IST 2018 domain:trip_da user: sessionId: clientIP: task:start utterance:S: Hvordan kan jeg hjælpe dig? U: book a ticket
+Sat Jan 27 10:18:25 IST 2018 domain:trip_da user: sessionId: clientIP: task:start utterance:S: Hvordan kan jeg hjælpe dig? U: book a ticket
+Sat Jan 27 11:48:27 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation utterance:S: where do you want to go? U: Sachin pays a good cricket

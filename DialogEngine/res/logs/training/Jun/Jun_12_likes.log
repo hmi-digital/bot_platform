@@ -1,0 +1,2 @@
+Tue Jun 12 22:59:59 IST 2018 domain:trip_test user:John sessionId:d2-UKMGDJF9RFKW clientIP:192.168.0.106 task:getTripInformation utterance:U: book a ticket S: Hey John, this trip to Pune costs ??? Dollars and getClass
+Tue Jun 12 23:17:33 IST 2018 domain:trip_en user:John sessionId:d1-HGSLBLNI8TZI clientIP:192.168.0.106 task:getTripInformation utterance:U: #getTripInformation S: Hey John and d?-???????????? , this trip to Pune costs ??? Dollars. We have taken additional info Good one; and getInfo as well as First

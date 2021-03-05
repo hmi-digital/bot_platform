@@ -1,0 +1,8 @@
+Fri Aug 09 11:22:00 IST 2019 domain:finovate_en user:John sessionId:d1-LUVKYYNOCW2C clientIP:10.88.252.88 task:start utterance:S: How may I help you? U: what is the credit limit available on account
+Fri Aug 09 11:23:28 IST 2019 domain:finovate_en user:John sessionId:d1-LUVKYYNOCW2C clientIP:10.88.252.88 task:start utterance:S: What can I do for you? U: please increase my credit limit
+Fri Aug 09 11:27:48 IST 2019 domain:trip_en user:test sessionId: clientIP: task:start utterance:S: How may I help you? U: book a ticket
+Fri Aug 09 11:30:12 IST 2019 domain:finovate_en user:John sessionId:d1-R7CZFCXGSWHO clientIP:10.88.252.88 task:start utterance:S: How may I help you? U: what is available credit limit on my
+Fri Aug 09 13:41:55 IST 2019 domain:finovate_en user:Allen sessionId:d2-Y2OGWFHTBEBF clientIP:10.88.252.88 task:start utterance:S: What can I do for you? U: please increase my credit card limit
+Fri Aug 09 13:44:42 IST 2019 domain:finovate_en user:Allen sessionId:d1-VZGFVOWPFWPE clientIP:10.88.252.88 task:start utterance:S: What can I do for you? U: Lord Shiva will have to look for alternatives
+Fri Aug 09 13:51:03 IST 2019 domain:finovate_en user:Allen sessionId:d1-6HWFTM8TZY4K clientIP:10.88.252.88 task:start utterance:S: What can I do for you? U: this is not good I will have to look for alternative
+Fri Aug 09 14:15:56 IST 2019 domain:finovate_en user:Allen sessionId:d2-8UQJRHKUOAUC clientIP:10.88.252.88 task:start utterance:S: How may I help you? U: no

@@ -1,0 +1,6 @@
+Sun Apr 15 13:55:27 IST 2018 domain:trip user: sessionId: clientIP: task:getWikipediaCityInfo TYPE:GroovyAction@3ee37e5a
+Sun Apr 15 13:57:09 IST 2018 domain:trip user: sessionId: clientIP: task:getWeatherInformation TYPE:HTTPAction@613a8ee1
+Sun Apr 15 13:58:05 IST 2018 domain:trip user: sessionId: clientIP: task:getWeatherInformation TYPE:HTTPAction@613a8ee1
+Sun Apr 15 14:00:13 IST 2018 domain:trip user: sessionId: clientIP: task:getWeatherInformation TYPE:HTTPAction@613a8ee1
+Sun Apr 15 14:04:38 IST 2018 domain:trip user: sessionId: clientIP: task:getWeatherInformation TYPE:HTTPAction@3a44431a
+Sun Apr 15 14:36:18 IST 2018 domain:trip user: sessionId: clientIP: task:getWeatherInformation TYPE:HTTPAction@3a44431a

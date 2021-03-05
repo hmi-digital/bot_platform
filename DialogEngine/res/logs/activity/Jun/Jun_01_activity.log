@@ -1,0 +1,9 @@
+Mon Jun 01 12:06:28 IST 2020 domain:banking_en user:John sessionId:d1-14PMEOFE7Q6E clientIP:127.0.0.1 task:EVT_getLoanOption TYPE:GroovyAction@22484440
+Mon Jun 01 12:07:18 IST 2020 domain:banking_en user:John sessionId:d1-14PMEOFE7Q6E clientIP:127.0.0.1 task:cancelTask TYPE:GroovyAction@4cb3e77b
+Mon Jun 01 12:40:51 IST 2020 domain:banking_en user:John sessionId:d1-IZRENB6AH31A clientIP:192.168.0.106 task:fundTransfer TYPE:GroovyAction@18ac4966
+Mon Jun 01 12:41:09 IST 2020 domain:banking_en user:John sessionId:d1-IZRENB6AH31A clientIP:192.168.0.106 task:accountBalance TYPE:GroovyAction@3523b0
+Mon Jun 01 12:41:35 IST 2020 domain:banking_en user:John sessionId:d1-IZRENB6AH31A clientIP:192.168.0.106 task:accountBalance TYPE:GroovyAction@3523b0
+Mon Jun 01 15:10:44 IST 2020 domain:banking_en user:John sessionId:d1-5GI4RCKAWTCH clientIP:192.168.0.106 task:accountBalance TYPE:GroovyAction@8bf513c
+Mon Jun 01 15:11:03 IST 2020 domain:banking_en user:John sessionId:d1-5GI4RCKAWTCH clientIP:192.168.0.106 task:fundTransfer TYPE:GroovyAction@58989b1e
+Mon Jun 01 15:13:17 IST 2020 domain:banking_en user:John sessionId:d1-5GI4RCKAWTCH clientIP:192.168.0.106 task:EVT_getLoanOption TYPE:GroovyAction@5c9785c9
+Mon Jun 01 15:15:46 IST 2020 domain:banking_en user:John sessionId:d1-5GI4RCKAWTCH clientIP:192.168.0.106 task:EVT_getDetails TYPE:GroovyAction@661b532e

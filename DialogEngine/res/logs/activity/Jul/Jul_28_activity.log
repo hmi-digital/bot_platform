@@ -1,0 +1,6 @@
+Tue Jul 28 11:46:26 IST 2020 domain:test user:John sessionId:d2-GCUVSY6RGO39 clientIP:127.0.0.1 task:cancelTask TYPE:GroovyAction@763f9115
+Tue Jul 28 11:55:48 IST 2020 domain:test user:John sessionId:d2-GIMSWDCUSJ0T clientIP:127.0.0.1 task:test TYPE:GroovyAction@5ed8f258
+Tue Jul 28 21:44:25 IST 2020 domain:trip_en user:John sessionId:d3-11SMMDRHDPVN clientIP:192.168.0.105 task:getTripInformation TYPE:GroovyAction@3affbd5
+Tue Jul 28 22:19:17 IST 2020 domain:trip_en user:John sessionId:d13-ZXIFQDWHN8DB clientIP:192.168.0.105 task:getTripInformation TYPE:GroovyAction@16da3f27
+Tue Jul 28 22:25:07 IST 2020 domain:trip_en user:John sessionId:d14-FM0AY66ZMDQZ clientIP:192.168.0.105 task:getTripInformation TYPE:GroovyAction@7088b318
+Tue Jul 28 23:08:34 IST 2020 domain:trip_en user:John sessionId:d18-FZMFHHNHNA8U clientIP:192.168.0.105 task:getTripInformation TYPE:GroovyAction@7133e6a7

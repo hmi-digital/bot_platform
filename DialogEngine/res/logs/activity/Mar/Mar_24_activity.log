@@ -1,0 +1,14 @@
+Sat Mar 24 09:10:48 IST 2018 domain:trip user:John sessionId:d2-UXVKYG7I0MGB clientIP:192.168.0.101 task:cancelTask TYPE:GroovyAction@9d87c45
+Sat Mar 24 09:10:54 IST 2018 domain:trip user:John sessionId:d1-S3MRFGBBI6JC clientIP:192.168.0.101 task:cancelTask TYPE:GroovyAction@2646b030
+Sat Mar 24 12:07:24 IST 2018 domain:gmeter user: sessionId: clientIP: task:getGmeterHelp TYPE:GroovyAction@3c407114
+Sat Mar 24 12:07:25 IST 2018 domain:gmeter user: sessionId: clientIP: task:getGmeterGuide TYPE:GroovyAction@432038ec
+Sat Mar 24 12:07:34 IST 2018 domain:gmeter user: sessionId: clientIP: task:EVT_getARReady TYPE:GroovyAction@2974f221
+Sat Mar 24 12:07:37 IST 2018 domain:gmeter user: sessionId: clientIP: task:EVT_getModel TYPE:GroovyAction@1bb564e2
+Sat Mar 24 12:07:37 IST 2018 domain:gmeter user: sessionId: clientIP: task:EVT_Step_1_Bayer TYPE:GroovyAction@4c398c80
+Sat Mar 24 12:07:41 IST 2018 domain:gmeter user: sessionId: clientIP: task:EVT_Step_2_Bayer TYPE:GroovyAction@75f65e45
+Sat Mar 24 12:07:48 IST 2018 domain:gmeter user: sessionId: clientIP: task:cancelTask TYPE:GroovyAction@2bd2b28e
+Sat Mar 24 12:15:09 IST 2018 domain:trip user: sessionId: clientIP: task:defunctTask TYPE:GroovyAction@31fa1761
+Sat Mar 24 12:17:30 IST 2018 domain:trip user: sessionId: clientIP: task:defunctTask TYPE:GroovyAction@3ee37e5a
+Sat Mar 24 12:21:38 IST 2018 domain:trip user: sessionId: clientIP: task:defunctTask TYPE:GroovyAction@3ee37e5a
+Sat Mar 24 12:26:16 IST 2018 domain:trip user: sessionId: clientIP: task:defunctTask TYPE:GroovyAction@3ee37e5a
+Sat Mar 24 23:32:24 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation TYPE:GroovyAction@1ffaf86

@@ -1,0 +1,9 @@
+Fri Oct 05 15:39:39 IST 2018 domain:trip_test user:test sessionId: clientIP: task:getWikipediaCityInfo TYPE:HTTPAction@4d5650ae
+Fri Oct 05 15:40:23 IST 2018 domain:trip_test user:test sessionId: clientIP: task:test TYPE:GroovyAction@49b2a47d
+Fri Oct 05 15:41:46 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback TYPE:GroovyAction@d5ae57e
+Fri Oct 05 15:41:56 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getARReady TYPE:GroovyAction@37d3d232
+Fri Oct 05 15:41:56 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_Step_1_Bayer TYPE:GroovyAction@5fd9b663
+Fri Oct 05 15:42:00 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_Step_2_Bayer TYPE:GroovyAction@62577d6
+Fri Oct 05 15:42:22 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_Step_3_Bayer TYPE:GroovyAction@1a1d3c1a
+Fri Oct 05 15:42:26 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_Step_4_Bayer TYPE:GroovyAction@5a772895
+Fri Oct 05 15:42:32 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_Step_5_Bayer TYPE:GroovyAction@4837595f

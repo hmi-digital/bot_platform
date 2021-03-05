@@ -1,0 +1,6 @@
+Mon Mar 12 14:58:02 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation TYPE:GroovyAction@2e8c1c9b
+Mon Mar 12 14:59:43 IST 2018 domain:trip user:John sessionId:d1-QXEZLFRBK3PO clientIP:10.88.249.224 task:getTripInformation TYPE:GroovyAction@6281678c
+Mon Mar 12 15:01:13 IST 2018 domain:trip user:John sessionId:d2-EFJIGCWEVI4P clientIP:10.88.249.224 task:getTripInformation TYPE:GroovyAction@449c4aff
+Mon Mar 12 15:13:17 IST 2018 domain:trip user:John sessionId:d1-IZTOBJYYAXEN clientIP:10.88.249.224 task:getTripInformation TYPE:GroovyAction@2f01c076
+Mon Mar 12 15:14:05 IST 2018 domain:trip user:John sessionId:d2-JGELC7L0W4WD clientIP:10.88.249.224 task:getTripInformation TYPE:GroovyAction@4c2817b2
+Mon Mar 12 15:15:01 IST 2018 domain:trip user:John sessionId:d3-ORYTZGEDG39D clientIP:10.88.249.224 task:getTripInformation TYPE:GroovyAction@653d2f5b

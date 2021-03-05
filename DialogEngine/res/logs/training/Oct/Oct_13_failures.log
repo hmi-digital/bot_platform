@@ -1,0 +1,47 @@
+Sat Oct 13 14:42:18 IST 2018 domain:trip_test user:test sessionId: clientIP: task:getTripInformation utterance:S: what is your mobile number? U: sachin plays good cricket
+Sat Oct 13 14:42:29 IST 2018 domain:trip_test user:test sessionId: clientIP: task:getTripInformation utterance:S: what is your mobile number? U: sachin plays good cricket
+Sat Oct 13 14:42:54 IST 2018 domain:trip_test user:test sessionId: clientIP: task:getTripInformation utterance:S: what is your mobile number? U: sachin plays good cricket
+Sat Oct 13 14:46:57 IST 2018 domain:trip_test user:test sessionId: clientIP: task:start utterance:S: Hi test , How may I help you? U: sachin plays good cricket
+Sat Oct 13 14:47:24 IST 2018 domain:trip_test user:test sessionId: clientIP: task:getTripInformation utterance:S: where do you want to go - getDestinationCity? U: sachin plays good cricket
+Sat Oct 13 14:50:01 IST 2018 domain:trip_test user:test sessionId: clientIP: task:test utterance:S: Describe your selection-1?..please be patient since I will take some time to process U: sachin plays good
+Sat Oct 13 14:50:13 IST 2018 domain:trip_test user:test sessionId: clientIP: task:test utterance:S: Describe your selection-1?..please be patient since I will take some time to process U: sachin plays
+Sat Oct 13 14:53:13 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: if BOT was able to answer to your query? U: good plays cricket
+Sat Oct 13 14:53:22 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: if BOT was able to answer to your query? U: sachin plays good cricket
+Sat Oct 13 15:02:28 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: if BOT was able to answer to your query? U: sachin plays good cricket
+Sat Oct 13 15:02:36 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: if BOT was able to answer to your query? U: good cricket
+Sat Oct 13 15:12:58 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: how would you rate this on scale of 0-5? U: sachin plays good cricket
+Sat Oct 13 15:13:05 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: how would you rate this on scale of 0-5? U: good cricket
+Sat Oct 13 15:23:22 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: how would you rate this on scale of 0-5? U: good cricket
+Sat Oct 13 15:23:28 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: how would you rate this on scale of 0-5? U: cricket
+Sat Oct 13 15:26:34 IST 2018 domain:trip_test user:test sessionId: clientIP: task:getWeatherInformation utterance:S: for which city do you want to know the weather? U: cricket is good
+Sat Oct 13 15:26:39 IST 2018 domain:trip_test user:test sessionId: clientIP: task:getWeatherInformation utterance:S: for which city do you want to know the weather? U: cricket is good
+Sat Oct 13 15:27:46 IST 2018 domain:trip_test user:test sessionId: clientIP: task:getWeatherInformation utterance:S: for which city do you want to know the weather? U: cricket is good
+Sat Oct 13 15:27:55 IST 2018 domain:trip_test user:test sessionId: clientIP: task:getWeatherInformation utterance:S: for which city do you want to know the weather? U: cricket is good
+Sat Oct 13 15:29:02 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: how would you rate this on scale of 0-5? U: cricket is good
+Sat Oct 13 15:29:13 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: how would you rate this on scale of 0-5? U: cricket is good
+Sat Oct 13 15:48:25 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: how would you rate this on scale of 0-5? U: cricket
+Sat Oct 13 15:48:32 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: how would you rate this on scale of 0-5? U: cricket
+Sat Oct 13 16:20:39 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: how would you rate this on scale of 0-5? U: sachin plays good cricket
+Sat Oct 13 16:20:46 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: how would you rate this on scale of 0-5? U: good cricket
+Sat Oct 13 16:25:57 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: how would you rate this on scale of 0-5? U: cricket is noce
+Sat Oct 13 16:26:03 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: how would you rate this on scale of 0-5? U: good cricket
+Sat Oct 13 17:04:23 IST 2018 domain:trip_test user:test sessionId: clientIP: task:test utterance:S: Describe your selection-1? U: own
+Sat Oct 13 17:04:47 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: how would you rate this on scale of 0-5? U: cricket is good
+Sat Oct 13 17:04:53 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: how would you rate this on scale of 0-5? U: good cricket
+Sat Oct 13 17:16:53 IST 2018 domain:trip_test user:test sessionId: clientIP: task:getTripInformation utterance:S: for how many persons to Pune - getNumberOfPersons? U: cricket
+Sat Oct 13 17:16:58 IST 2018 domain:trip_test user:test sessionId: clientIP: task:getTripInformation utterance:S: for how many persons to Pune - getNumberOfPersons? U: sachin
+Sat Oct 13 17:32:26 IST 2018 domain:trip_test user:test sessionId: clientIP: task:test utterance:S: Describe your selection-1? U: cricket
+Sat Oct 13 17:32:30 IST 2018 domain:trip_test user:test sessionId: clientIP: task:test utterance:S: Describe your selection-1? U: cricket
+Sat Oct 13 17:33:49 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: how would you rate this on scale of 0-5? U: cricket
+Sat Oct 13 17:33:53 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: how would you rate this on scale of 0-5? U: cricket
+Sat Oct 13 17:35:46 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: how would you rate this on scale of 0-5? U: sachin plays
+Sat Oct 13 17:35:52 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: how would you rate this on scale of 0-5? U: sachin palys
+Sat Oct 13 17:36:35 IST 2018 domain:trip_test user:test sessionId: clientIP: task:getTripInformation utterance:S: where do you want to go - getDestinationCity? U: sachin plays
+Sat Oct 13 17:36:41 IST 2018 domain:trip_test user:test sessionId: clientIP: task:getTripInformation utterance:S: where do you want to go - getDestinationCity? U: sachin plays
+Sat Oct 13 17:38:16 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: how would you rate this on scale of 0-5? U: sachin
+Sat Oct 13 17:38:19 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: how would you rate this on scale of 0-5? U: sachin
+Sat Oct 13 17:49:19 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: how would you rate this on scale of 0-5? U: sachin
+Sat Oct 13 17:49:23 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: how would you rate this on scale of 0-5? U: sachin
+Sat Oct 13 17:49:43 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: how would you rate this on scale of 0-5? U: sachin
+Sat Oct 13 17:49:47 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback utterance:S: how would you rate this on scale of 0-5? U: sachin
+Sat Oct 13 17:58:49 IST 2018 domain:trip_test user:test sessionId: clientIP: task:start utterance:S: Hi test , How may I help you? U: how is waether

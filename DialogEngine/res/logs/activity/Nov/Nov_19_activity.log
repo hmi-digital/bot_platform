@@ -1,0 +1,8 @@
+Tue Nov 19 15:01:56 IST 2019 domain:trip_en user:test sessionId: clientIP: task:getTripInformation TYPE:GroovyAction@60099951
+Tue Nov 19 15:02:10 IST 2019 domain:trip_en user:test sessionId: clientIP: task:start TYPE:GroovyAction@61c9c3fd
+Tue Nov 19 15:02:10 IST 2019 domain:trip_en user:test sessionId: clientIP: task:exitTask TYPE:GroovyAction@5cbe877d
+Tue Nov 19 15:02:36 IST 2019 domain:trip_en user:test sessionId: clientIP: task:start TYPE:GroovyAction@61c9c3fd
+Tue Nov 19 15:02:36 IST 2019 domain:trip_en user:test sessionId: clientIP: task:exitTask TYPE:GroovyAction@5cbe877d
+Tue Nov 19 15:10:19 IST 2019 domain:trip_en user:John sessionId:d1-OBCJNMWXRNGZ clientIP:10.88.248.91 task:getTripInformation TYPE:GroovyAction@8aa8d60
+Tue Nov 19 15:10:27 IST 2019 domain:trip_en user:John sessionId:d1-OBCJNMWXRNGZ clientIP:10.88.248.91 task:start TYPE:GroovyAction@68f73ed6
+Tue Nov 19 15:10:27 IST 2019 domain:trip_en user:John sessionId:d1-OBCJNMWXRNGZ clientIP:10.88.248.91 task:exitTask TYPE:GroovyAction@a500726

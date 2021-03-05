@@ -1,0 +1,16 @@
+Tue Feb 18 12:31:16 IST 2020 domain:trip_en user:test sessionId: clientIP: task:getTripInformation TYPE:GroovyAction@5e600dd5
+Tue Feb 18 13:45:39 IST 2020 domain:trip_en user:John sessionId:d1-GMZA7OJKZVPJ clientIP:10.88.251.73 task:getTripInformation TYPE:GroovyAction@51f43328
+Tue Feb 18 18:17:33 IST 2020 domain:finovate_en user:Puru sessionId:d1-QPBSKEXTCNXR clientIP:10.88.252.92 task:createGoal TYPE:GroovyAction@4aa1cdbc
+Tue Feb 18 18:17:34 IST 2020 domain:finovate_en user:Puru sessionId:d1-QPBSKEXTCNXR clientIP:10.88.252.92 task:tsk_notification TYPE:GroovyAction@4fe6a4fc
+Tue Feb 18 18:18:05 IST 2020 domain:finovate_en user:Puru sessionId:d1-QPBSKEXTCNXR clientIP:10.88.252.92 task:getCreditCardLimit TYPE:GroovyAction@d013501
+Tue Feb 18 18:18:25 IST 2020 domain:finovate_en user:Puru sessionId:d1-QPBSKEXTCNXR clientIP:10.88.252.92 task:requestCreditLimitIncrease TYPE:GroovyAction@475c065
+Tue Feb 18 18:18:43 IST 2020 domain:finovate_en user:Puru sessionId:d1-QPBSKEXTCNXR clientIP:10.88.252.92 task:lowRiskProfile TYPE:GroovyAction@299a0e8a
+Tue Feb 18 18:18:43 IST 2020 domain:finovate_en user:Puru sessionId:d1-QPBSKEXTCNXR clientIP:10.88.252.92 task:confirmToTransfer TYPE:GroovyAction@446da940
+Tue Feb 18 22:55:36 IST 2020 domain:finovate_en user:Puru sessionId:d1-UPRHIAVT5OJU clientIP:192.168.0.105 task:createGoal TYPE:GroovyAction@27792ba2
+Tue Feb 18 22:55:37 IST 2020 domain:finovate_en user:Puru sessionId:d1-UPRHIAVT5OJU clientIP:192.168.0.105 task:tsk_notification TYPE:GroovyAction@6cd86b09
+Tue Feb 18 22:56:24 IST 2020 domain:finovate_en user:Puru sessionId:d1-UPRHIAVT5OJU clientIP:192.168.0.105 task:getCreditCardLimit TYPE:GroovyAction@61280496
+Tue Feb 18 22:57:29 IST 2020 domain:finovate_en user:Puru sessionId:d1-UPRHIAVT5OJU clientIP:192.168.0.105 task:requestCreditLimitIncrease TYPE:GroovyAction@61987afd
+Tue Feb 18 22:57:53 IST 2020 domain:finovate_en user:Puru sessionId:d1-UPRHIAVT5OJU clientIP:192.168.0.105 task:lowRiskProfile TYPE:GroovyAction@2c4fea49
+Tue Feb 18 22:57:53 IST 2020 domain:finovate_en user:Puru sessionId:d1-UPRHIAVT5OJU clientIP:192.168.0.105 task:confirmToTransfer TYPE:GroovyAction@2812f20
+Tue Feb 18 23:11:07 IST 2020 domain:finovate_en user:Puru sessionId:d1-UPRHIAVT5OJU clientIP:192.168.0.105 task:createGoal TYPE:GroovyAction@27792ba2
+Tue Feb 18 23:11:07 IST 2020 domain:finovate_en user:Puru sessionId:d1-UPRHIAVT5OJU clientIP:192.168.0.105 task:tsk_notification TYPE:GroovyAction@6cd86b09

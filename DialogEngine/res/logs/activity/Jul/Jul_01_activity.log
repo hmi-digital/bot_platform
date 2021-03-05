@@ -1,0 +1,7 @@
+Wed Jul 01 14:28:07 IST 2020 domain:trip_en user:test sessionId: clientIP: task:getTripInformation TYPE:GroovyAction@368247b9
+Wed Jul 01 14:54:25 IST 2020 domain:trip_hi user:test sessionId: clientIP: task:getWeatherInformation TYPE:HTTPAction@5d908d47
+Wed Jul 01 16:19:04 IST 2020 domain:trip_en user:test sessionId: clientIP: task:getWeatherInformation TYPE:HTTPAction@38cee291
+Wed Jul 01 16:19:13 IST 2020 domain:trip_en user:test sessionId: clientIP: task:getTripInformation TYPE:GroovyAction@15043a2f
+Wed Jul 01 16:21:28 IST 2020 domain:trip_en user:test sessionId: clientIP: task:getWeatherInformation TYPE:HTTPAction@576d5deb
+Wed Jul 01 16:21:46 IST 2020 domain:trip_en user:test sessionId: clientIP: task:getTripInformation TYPE:GroovyAction@742ff096
+Wed Jul 01 16:21:51 IST 2020 domain:trip_en user:test sessionId: clientIP: task:cancelTask TYPE:GroovyAction@6b7906b3

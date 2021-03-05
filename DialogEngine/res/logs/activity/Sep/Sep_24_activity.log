@@ -1,0 +1,6 @@
+Tue Sep 24 14:14:46 EDT 2019 domain:finovate_goal_en user:John sessionId:d1-0K74AIHZ1WCW clientIP:10.51.0.174 task:createGoal TYPE:GroovyAction@4cd68c58
+Tue Sep 24 14:14:49 EDT 2019 domain:finovate_goal_en user:John sessionId:d1-0K74AIHZ1WCW clientIP:10.51.0.174 task:tsk_notification TYPE:GroovyAction@6494c16e
+Tue Sep 24 14:14:55 EDT 2019 domain:finovate_goal_en user:John sessionId:d1-0K74AIHZ1WCW clientIP:10.51.0.174 task:getCreditCardLimit TYPE:GroovyAction@69cee13
+Tue Sep 24 14:15:04 EDT 2019 domain:finovate_goal_en user:John sessionId:d1-0K74AIHZ1WCW clientIP:10.51.0.174 task:requestCreditLimitIncrease TYPE:GroovyAction@43e052c4
+Tue Sep 24 14:15:09 EDT 2019 domain:finovate_goal_en user:John sessionId:d1-0K74AIHZ1WCW clientIP:10.51.0.174 task:lowRiskProfile TYPE:GroovyAction@99db0e4
+Tue Sep 24 14:15:09 EDT 2019 domain:finovate_goal_en user:John sessionId:d1-0K74AIHZ1WCW clientIP:10.51.0.174 task:confirmToTransfer TYPE:GroovyAction@50cbc0bf

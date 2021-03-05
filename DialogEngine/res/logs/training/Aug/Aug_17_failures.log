@@ -1,0 +1,4 @@
+Mon Aug 17 19:08:41 IST 2020 domain:gmeter_en user:John sessionId:d6-7MGW0KEF2CSI clientIP:192.168.0.102 task:start utterance:S: How may I help you? U: Businessman 2
+Mon Aug 17 20:39:35 IST 2020 domain:gmeter_en user:John sessionId:d2-NOINICHP8WOO clientIP:192.168.0.102 task:getGmeterGuide utterance:S: Do you need DIY assistance? U: voice assistant
+Mon Aug 17 23:26:35 IST 2020 domain:gmeter_en user:John sessionId:d3-D9FEVAY1ISHR clientIP:192.168.0.102 task:start utterance:S: How may I help you? U: 20 ki Kuchh Mita
+Mon Aug 17 23:41:23 IST 2020 domain:gmeter_en user:John sessionId:d8-AMWJPYX4ZMOJ clientIP:192.168.0.102 task:start utterance:S: How may I help you? U: xx HD kilometre

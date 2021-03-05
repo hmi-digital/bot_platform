@@ -1,0 +1,4 @@
+Wed Feb 17 13:52:57 IST 2021 domain:dummy user:John sessionId:d1-4MYJ53LBQIMK clientIP:127.0.0.1 task:start utterance:S: How may I help you? U: I want to book a ticket
+Wed Feb 17 13:54:18 IST 2021 domain:dummy user:John sessionId:d1-YN08DAAKT3PQ clientIP:127.0.0.1 task:start utterance:S: How may I help you? U: want to book a ticket
+Wed Feb 17 13:55:20 IST 2021 domain:dummy user:John sessionId:d2-DQZ9QEXPD4L9 clientIP:127.0.0.1 task:start utterance:S: How may I help you? U: book ticket
+Wed Feb 17 13:57:04 IST 2021 domain:trip_en user:John sessionId:d1-FVIDO0WJQOU4 clientIP:127.0.0.1 task:getTripInformation utterance:S: which class do you want to travel? U: Bangla

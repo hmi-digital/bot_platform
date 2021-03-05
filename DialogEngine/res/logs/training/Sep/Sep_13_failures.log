@@ -1,0 +1,5 @@
+Thu Sep 13 11:35:33 IST 2018 domain:trip_en user:test sessionId: clientIP: task:start utterance:S: What can I do for you? U: sachin does a good job
+Thu Sep 13 11:35:55 IST 2018 domain:trip_en user:test sessionId: clientIP: task:start utterance:S: How may I help you? U: I want to kow cricket score for ???? runs
+Thu Sep 13 11:37:19 IST 2018 domain:trip_en user:test sessionId: clientIP: task:start utterance:S: What can I do for you? U: sachin plays tell me where he scored ??? runs
+Thu Sep 13 11:38:18 IST 2018 domain:trip_en user:test sessionId: clientIP: task:start utterance:S: What can I do for you? U: play 50045 runs
+Thu Sep 13 11:39:49 IST 2018 domain:trip_en user:test sessionId: clientIP: task:start utterance:S: What can I do for you? U: sachin 4000 runs

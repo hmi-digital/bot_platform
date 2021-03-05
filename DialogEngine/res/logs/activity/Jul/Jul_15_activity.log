@@ -1,0 +1,4 @@
+Wed Jul 15 11:28:19 IST 2020 domain:trip_en user:test sessionId: clientIP: task:getWeatherInformation TYPE:HTTPAction@576d5deb
+Wed Jul 15 11:49:04 IST 2020 domain:trip_en user:John sessionId:d1-3B2FCCJDWBJN clientIP:0:0:0:0:0:0:0:1 task:getTripInformation TYPE:GroovyAction@1dc4351
+Wed Jul 15 13:46:26 IST 2020 domain:trip_en user:John sessionId:d3-ZVTOHVVOCOQV clientIP:192.168.0.105 task:cancelTask TYPE:GroovyAction@d03cb9a
+Wed Jul 15 13:46:40 IST 2020 domain:trip_en user:John sessionId:d3-ZVTOHVVOCOQV clientIP:192.168.0.105 task:getWeatherInformation TYPE:HTTPAction@3e385a89

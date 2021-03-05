@@ -1,0 +1,17 @@
+Sun Jun 10 00:16:13 IST 2018 domain:trip_test user:Puru sessionId:d1-X7SWBPFXFATX clientIP:192.168.0.107 task:test TYPE:GroovyAction@67524b01
+Sun Jun 10 00:16:41 IST 2018 domain:trip_test user:Puru sessionId:d1-X7SWBPFXFATX clientIP:192.168.0.107 task:getTripInformation TYPE:GroovyAction@5f5d3eb6
+Sun Jun 10 00:17:38 IST 2018 domain:trip_test user:John sessionId:d2-QHVQTEFGDX7G clientIP:192.168.0.107 task:test TYPE:GroovyAction@732df56f
+Sun Jun 10 00:17:46 IST 2018 domain:trip_test user:John sessionId:d2-QHVQTEFGDX7G clientIP:192.168.0.107 task:getTripInformation TYPE:GroovyAction@7d899931
+Sun Jun 10 00:18:11 IST 2018 domain:trip_test user:John sessionId:d2-QHVQTEFGDX7G clientIP:192.168.0.107 task:cancelTask TYPE:GroovyAction@31989639
+Sun Jun 10 00:19:52 IST 2018 domain:trip_test user:John sessionId:d1-1DYCWHDIJY61 clientIP:192.168.0.107 task:cancelTask TYPE:GroovyAction@5828e262
+Sun Jun 10 00:20:34 IST 2018 domain:trip_test user:John sessionId:d1-1DYCWHDIJY61 clientIP:192.168.0.107 task:cancelTask TYPE:GroovyAction@5828e262
+Sun Jun 10 00:20:55 IST 2018 domain:trip_test user:John sessionId:d1-1DYCWHDIJY61 clientIP:192.168.0.107 task:test TYPE:GroovyAction@3da7c277
+Sun Jun 10 00:21:00 IST 2018 domain:trip_test user:John sessionId:d1-1DYCWHDIJY61 clientIP:192.168.0.107 task:getTripInformation TYPE:GroovyAction@6424e914
+Sun Jun 10 00:21:04 IST 2018 domain:trip_test user:John sessionId:d1-1DYCWHDIJY61 clientIP:192.168.0.107 task:cancelTask TYPE:GroovyAction@5828e262
+Sun Jun 10 00:21:14 IST 2018 domain:trip_test user:John sessionId:d1-1DYCWHDIJY61 clientIP:192.168.0.107 task:cancelTask TYPE:GroovyAction@5828e262
+Sun Jun 10 00:21:45 IST 2018 domain:trip_test user:John sessionId:d1-1DYCWHDIJY61 clientIP:192.168.0.107 task:cancelTask TYPE:GroovyAction@5828e262
+Sun Jun 10 00:21:49 IST 2018 domain:trip_test user:John sessionId:d1-1DYCWHDIJY61 clientIP:192.168.0.107 task:cancelTask TYPE:GroovyAction@5828e262
+Sun Jun 10 00:22:02 IST 2018 domain:trip_test user:John sessionId:d1-1DYCWHDIJY61 clientIP:192.168.0.107 task:cancelTask TYPE:GroovyAction@5828e262
+Sun Jun 10 00:23:52 IST 2018 domain:trip_test user:John sessionId:d1-L6ME542U6KJS clientIP:192.168.0.107 task:test TYPE:GroovyAction@295a76d3
+Sun Jun 10 00:23:57 IST 2018 domain:trip_test user:John sessionId:d1-L6ME542U6KJS clientIP:192.168.0.107 task:cancelTask TYPE:GroovyAction@5d4d1715
+Sun Jun 10 00:35:36 IST 2018 domain:trip_test user:John sessionId:d1-L6ME542U6KJS clientIP:192.168.0.107 task:getTripInformation TYPE:GroovyAction@3d2ea886

@@ -1,0 +1,2 @@
+Thu Jun 14 11:29:32 IST 2018 domain:trip_en user:John sessionId:d1-M1LP5XZ0HJRP clientIP:10.88.246.15 task:getTripInformation TYPE:GroovyAction@51a2e32c
+Thu Jun 14 11:29:54 IST 2018 domain:trip_en user:John sessionId:d1-M1LP5XZ0HJRP clientIP:10.88.246.15 task:getWeatherInformation TYPE:HTTPAction@5b37de4a

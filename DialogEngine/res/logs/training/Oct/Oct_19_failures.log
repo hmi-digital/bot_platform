@@ -1,0 +1,5 @@
+Mon Oct 19 10:37:06 IST 2020 domain:banking_cee user:John sessionId:d1-JPIT9J41DW8Q clientIP:192.168.0.101 task:getTransactions utterance:S: last 4 digits of your account? U: videos 2468
+Mon Oct 19 10:37:30 IST 2020 domain:banking_cee user:John sessionId:d1-JPIT9J41DW8Q clientIP:192.168.0.101 task:getTransactions utterance:S: what are the last 4 digits of your account? U: it is 2468
+Mon Oct 19 10:49:24 IST 2020 domain:banking_cee user:John sessionId:d1-9DJ1KNPQDSMJ clientIP:192.168.0.101 task:fundTransfer utterance:S: what is the name of beneficiary? U: Dhan Mila
+Mon Oct 19 10:51:29 IST 2020 domain:banking_cee user:John sessionId:d1-9DJ1KNPQDSMJ clientIP:192.168.0.101 task:start utterance:S: How may I help you? U: what is my credit balance
+Mon Oct 19 11:45:05 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d1-B7DWDRJLJK98 clientIP:192.168.0.101 task:start utterance:S: How may I help you? U: police mein credit limit

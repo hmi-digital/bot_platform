@@ -1,0 +1,10 @@
+Fri Mar 23 17:20:21 IST 2018 domain:trip user: sessionId: clientIP: task:start utterance:S: What can I do for you? U: sachin is good cricketer
+Fri Mar 23 17:51:01 IST 2018 domain:trip user: sessionId: clientIP: task:start utterance:S: How may I help you? U: Sachin
+Fri Mar 23 17:53:18 IST 2018 domain:trip user: sessionId: clientIP: task:start utterance:S: How may I help you? U: Hi
+Fri Mar 23 19:17:55 IST 2018 domain:trip user: sessionId: clientIP: task:start utterance:S: What can I do for you? U: Hi
+Fri Mar 23 19:18:21 IST 2018 domain:trip user: sessionId: clientIP: task:start utterance:S: What can I do for you? U: Good Morning
+Fri Mar 23 19:35:32 IST 2018 domain:trip user: sessionId: clientIP: task:start utterance:S: How may I help you? U: Hi
+Fri Mar 23 20:39:27 IST 2018 domain:trip user: sessionId: clientIP: task:start utterance:S: How may I help you? U: Hi
+Fri Mar 23 20:55:39 IST 2018 domain:trip user: sessionId: clientIP: task:start utterance:S: What can I do for you? U: Hi
+Fri Mar 23 22:48:25 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation utterance:S: where do you want to go? U: Scahin foes play good cricket
+Fri Mar 23 22:48:42 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation utterance:S: say yes no? U: yes

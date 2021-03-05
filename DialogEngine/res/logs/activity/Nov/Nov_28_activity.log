@@ -1,0 +1,9 @@
+Wed Nov 28 19:52:44 IST 2018 domain:trip_en user:test sessionId: clientIP: task:cancelTask TYPE:GroovyAction@4b45a2f5
+Wed Nov 28 19:52:49 IST 2018 domain:trip_en user:test sessionId: clientIP: task:start TYPE:GroovyAction@6340e5f0
+Wed Nov 28 19:52:50 IST 2018 domain:trip_en user:test sessionId: clientIP: task:exitTask TYPE:GroovyAction@56e8b606
+Wed Nov 28 20:43:24 IST 2018 domain:trip_en user:test sessionId: clientIP: task:getWeatherInformation TYPE:HTTPAction@e350b40
+Wed Nov 28 20:43:34 IST 2018 domain:trip_en user:test sessionId: clientIP: task:getTripInformation TYPE:GroovyAction@d737b89
+Wed Nov 28 20:44:21 IST 2018 domain:trip_en user:test sessionId: clientIP: task:start TYPE:GroovyAction@3f6db3fb
+Wed Nov 28 20:44:21 IST 2018 domain:trip_en user:test sessionId: clientIP: task:exitTask TYPE:GroovyAction@17cdf2d0
+Wed Nov 28 20:44:29 IST 2018 domain:trip_en user:test sessionId: clientIP: task:start TYPE:GroovyAction@3f6db3fb
+Wed Nov 28 20:44:29 IST 2018 domain:trip_en user:test sessionId: clientIP: task:exitTask TYPE:GroovyAction@17cdf2d0

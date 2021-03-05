@@ -1,0 +1,11 @@
+Sat Jul 25 20:00:05 IST 2020 domain:banking_en user:John sessionId:d4-YR7YFVN48KHB clientIP:192.168.0.104 task:start utterance:S: How may I help you? U: account fund transfer
+Sat Jul 25 20:03:07 IST 2020 domain:banking_en user:John sessionId:d5-PAZGGXILZHFD clientIP:192.168.0.104 task:start utterance:S: How may I help you? U: Hi
+Sat Jul 25 20:04:04 IST 2020 domain:banking_en user:John sessionId:d6-JW5LAT7CIIW4 clientIP:192.168.0.104 task:start utterance:S: What can I do for you? U: Hi
+Sat Jul 25 20:04:12 IST 2020 domain:banking_en user:John sessionId:d6-JW5LAT7CIIW4 clientIP:192.168.0.104 task:start utterance:S: How may I help you? U: last ransactions
+Sat Jul 25 21:08:41 IST 2020 domain:banking_en user:John sessionId:d8-QBVTW9QWCA5O clientIP:192.168.0.104 task:start utterance:S: What can I do for you? U: Hi
+Sat Jul 25 21:11:51 IST 2020 domain:banking_en user:John sessionId:d9-KTD0WX6YH5VK clientIP:192.168.0.104 task:start utterance:S: What can I do for you? U: Book a ticket
+Sat Jul 25 21:31:56 IST 2020 domain:banking_en user:John sessionId:d13-NXYAQVQDRGCK clientIP:192.168.0.104 task:start utterance:S: How may I help you? U: Hi
+Sat Jul 25 22:35:21 IST 2020 domain:test user:John sessionId:d4-TXJPEKXWEGPU clientIP:192.168.0.104 task:start utterance:S: How may I help you? U: hi
+Sat Jul 25 22:40:01 IST 2020 domain:test user:John sessionId:d8-CQCGKFI4Z6UJ clientIP:192.168.0.104 task:start utterance:S: How may I help you? U: Hi
+Sat Jul 25 22:41:31 IST 2020 domain:test user:John sessionId:d10-GNO8JRUPDO4O clientIP:192.168.0.104 task:start utterance:S: How may I help you? U: Hi
+Sat Jul 25 22:41:41 IST 2020 domain:test user:John sessionId:d10-GNO8JRUPDO4O clientIP:192.168.0.104 task:start utterance:S: How may I help you? U: Hi

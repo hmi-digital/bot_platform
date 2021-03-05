@@ -1,0 +1,14 @@
+Thu Jan 28 10:05:55 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getTripInformation TYPE:GroovyAction@412c995d
+Thu Jan 28 22:57:13 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getTripInformation TYPE:GroovyAction@1b58ff9e
+Thu Jan 28 23:00:18 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getWeatherInformation TYPE:HTTPAction@6145b81e
+Thu Jan 28 23:05:01 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getTripInformation TYPE:GroovyAction@701a32
+Thu Jan 28 23:05:16 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getWeatherInformation TYPE:HTTPAction@2b037cfc
+Thu Jan 28 23:06:31 IST 2021 domain:trip_en user:John sessionId:d1-HYJZYJZ5V6N7 clientIP:127.0.0.1 task:getWeatherInformation TYPE:HTTPAction@117c6d94
+Thu Jan 28 23:06:38 IST 2021 domain:trip_en user:John sessionId:d1-HYJZYJZ5V6N7 clientIP:127.0.0.1 task:getWeatherInformation TYPE:HTTPAction@117c6d94
+Thu Jan 28 23:07:13 IST 2021 domain:trip_en user:John sessionId:d1-HYJZYJZ5V6N7 clientIP:127.0.0.1 task:getWeatherInformation TYPE:HTTPAction@117c6d94
+Thu Jan 28 23:13:33 IST 2021 domain:trip_en user:John sessionId:d1-J9ECVSGVPK8U clientIP:127.0.0.1 task:getWeatherInformation TYPE:HTTPAction@727ec4e1
+Thu Jan 28 23:22:08 IST 2021 domain:trip_en user:John sessionId:d1-NSWJPENX4LMT clientIP:127.0.0.1 task:getTripInformation TYPE:GroovyAction@7a1d96d0
+Thu Jan 28 23:22:15 IST 2021 domain:trip_en user:John sessionId:d1-NSWJPENX4LMT clientIP:127.0.0.1 task:getWeatherInformation TYPE:HTTPAction@5df24857
+Thu Jan 28 23:22:32 IST 2021 domain:trip_en user:John sessionId:d1-NSWJPENX4LMT clientIP:127.0.0.1 task:getWeatherInformation TYPE:HTTPAction@5df24857
+Thu Jan 28 23:37:58 IST 2021 domain:trip_en user:John sessionId:d1-NQI4KA95DYCU clientIP:192.168.0.103 task:getTripInformation TYPE:GroovyAction@23b25c7a
+Thu Jan 28 23:41:24 IST 2021 domain:trip_en user:John sessionId:d2-RP78NL4CFSGA clientIP:192.168.0.103 task:getTripInformation TYPE:GroovyAction@3a429906

@@ -1,0 +1,54 @@
+Sun Nov 01 21:53:44 IST 2020 domain:banking_cee_en user:Gus Holmes sessionId:d1-PUKZ0OPIBBCQ clientIP:192.168.0.101 task:getUserProfile TYPE:GroovyAction@78e41553
+Sun Nov 01 21:54:20 IST 2020 domain:banking_cee_en user:Gus Holmes sessionId:d1-PUKZ0OPIBBCQ clientIP:192.168.0.101 task:accountBalance TYPE:GroovyAction@34c7bbf8
+Sun Nov 01 21:58:00 IST 2020 domain:banking_cee_en user:Gus Holmes sessionId:d1-PUKZ0OPIBBCQ clientIP:192.168.0.101 task:getCreditCardLimit TYPE:GroovyAction@2b2e1fe9
+Sun Nov 01 22:03:49 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d1-YTET6ODSTXOB clientIP:192.168.0.101 task:getUserProfile TYPE:GroovyAction@5f5c500e
+Sun Nov 01 22:04:02 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d1-YTET6ODSTXOB clientIP:192.168.0.101 task:accountBalance TYPE:GroovyAction@29c8feee
+Sun Nov 01 22:04:10 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d1-YTET6ODSTXOB clientIP:192.168.0.101 task:getTransactions TYPE:GroovyAction@6f9fe3da
+Sun Nov 01 22:08:39 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d1-46XCHZNR6IJC clientIP:192.168.0.101 task:getUserProfile TYPE:GroovyAction@3554b06e
+Sun Nov 01 22:08:47 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d1-46XCHZNR6IJC clientIP:192.168.0.101 task:accountBalance TYPE:GroovyAction@6c203c16
+Sun Nov 01 22:09:01 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d1-46XCHZNR6IJC clientIP:192.168.0.101 task:getTransactions TYPE:GroovyAction@28ac4250
+Sun Nov 01 22:09:17 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d1-46XCHZNR6IJC clientIP:192.168.0.101 task:fundTransfer TYPE:GroovyAction@36b0ae47
+Sun Nov 01 22:09:35 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d1-46XCHZNR6IJC clientIP:192.168.0.101 task:getCreditCardLimit TYPE:GroovyAction@41351c88
+Sun Nov 01 22:14:44 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d1-AZEMQWTY4ZVC clientIP:192.168.0.101 task:getUserProfile TYPE:GroovyAction@2d6305c3
+Sun Nov 01 22:14:51 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d1-AZEMQWTY4ZVC clientIP:192.168.0.101 task:getCreditCardLimit TYPE:GroovyAction@354ac4f2
+Sun Nov 01 22:22:06 IST 2020 domain:banking_cee user:John sessionId:d1-EYID27MJXREU clientIP:192.168.0.103 task:getUserProfile TYPE:GroovyAction@5bd380d9
+Sun Nov 01 22:22:26 IST 2020 domain:banking_cee user:John sessionId:d1-EYID27MJXREU clientIP:192.168.0.103 task:accountBalance TYPE:GroovyAction@7920e453
+Sun Nov 01 22:22:32 IST 2020 domain:banking_cee user:John sessionId:d1-EYID27MJXREU clientIP:192.168.0.103 task:cancelTask TYPE:GroovyAction@1f1b0405
+Sun Nov 01 22:22:42 IST 2020 domain:banking_cee user:John sessionId:d1-EYID27MJXREU clientIP:192.168.0.103 task:getTransactions TYPE:GroovyAction@3a54d284
+Sun Nov 01 22:23:26 IST 2020 domain:banking_cee user:John sessionId:d1-EYID27MJXREU clientIP:192.168.0.103 task:fundTransfer TYPE:GroovyAction@549c17b4
+Sun Nov 01 22:24:59 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d2-X4NHBLJSZ6YS clientIP:192.168.0.101 task:getUserProfile TYPE:GroovyAction@7d5c6398
+Sun Nov 01 22:25:10 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d2-X4NHBLJSZ6YS clientIP:192.168.0.101 task:accountBalance TYPE:GroovyAction@40b77a9b
+Sun Nov 01 22:25:20 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d2-X4NHBLJSZ6YS clientIP:192.168.0.101 task:getCreditCardLimit TYPE:GroovyAction@5f2f403e
+Sun Nov 01 22:25:32 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d2-X4NHBLJSZ6YS clientIP:192.168.0.101 task:EVT_getUserOption TYPE:GroovyAction@6c3dd192
+Sun Nov 01 22:26:19 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d2-X4NHBLJSZ6YS clientIP:192.168.0.101 task:EVT_getConfirmation TYPE:GroovyAction@6c5bdc9b
+Sun Nov 01 22:38:36 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d1-HV4XEAT268B7 clientIP:192.168.0.101 task:getUserProfile TYPE:GroovyAction@50080c7
+Sun Nov 01 22:39:05 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d1-HV4XEAT268B7 clientIP:192.168.0.101 task:accountBalance TYPE:GroovyAction@3e79f54e
+Sun Nov 01 22:39:34 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d1-HV4XEAT268B7 clientIP:192.168.0.101 task:getCreditCardLimit TYPE:GroovyAction@7f6dd652
+Sun Nov 01 22:40:25 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d1-HV4XEAT268B7 clientIP:192.168.0.101 task:EVT_getUserOption TYPE:GroovyAction@2171aaf
+Sun Nov 01 22:41:20 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d1-HV4XEAT268B7 clientIP:192.168.0.101 task:EVT_getConfirmation TYPE:GroovyAction@34227ea4
+Sun Nov 01 22:46:07 IST 2020 domain:banking_cee user:Aubrey Wright sessionId:d2-BDDTF3SV6YNJ clientIP:192.168.0.101 task:getUserProfile TYPE:GroovyAction@3525bd50
+Sun Nov 01 22:46:34 IST 2020 domain:banking_cee user:Aubrey Wright sessionId:d2-BDDTF3SV6YNJ clientIP:192.168.0.101 task:cancelTask TYPE:GroovyAction@49a34c2d
+Sun Nov 01 22:49:42 IST 2020 domain:banking_cee user:Aubrey Wright sessionId:d2-BDDTF3SV6YNJ clientIP:192.168.0.101 task:getCreditCardLimit TYPE:GroovyAction@1f8cadbb
+Sun Nov 01 22:50:20 IST 2020 domain:banking_cee user:Aubrey Wright sessionId:d2-BDDTF3SV6YNJ clientIP:192.168.0.101 task:fundTransfer TYPE:GroovyAction@60c45b9b
+Sun Nov 01 22:51:02 IST 2020 domain:banking_cee user:Aubrey Wright sessionId:d2-BDDTF3SV6YNJ clientIP:192.168.0.101 task:EVT_getUserOption TYPE:GroovyAction@449ff39e
+Sun Nov 01 22:52:15 IST 2020 domain:banking_cee user:Aubrey Wright sessionId:d3-PV0OPU0EQDCR clientIP:192.168.0.101 task:getUserProfile TYPE:GroovyAction@fcd5606
+Sun Nov 01 22:52:20 IST 2020 domain:banking_cee user:Aubrey Wright sessionId:d3-PV0OPU0EQDCR clientIP:192.168.0.101 task:cancelTask TYPE:GroovyAction@531e81a0
+Sun Nov 01 22:52:59 IST 2020 domain:banking_cee user:Aubrey Wright sessionId:d3-PV0OPU0EQDCR clientIP:192.168.0.101 task:fundTransfer TYPE:GroovyAction@21b9ea76
+Sun Nov 01 22:53:21 IST 2020 domain:banking_cee user:Aubrey Wright sessionId:d3-PV0OPU0EQDCR clientIP:192.168.0.101 task:EVT_getUserOption TYPE:GroovyAction@3cbc981a
+Sun Nov 01 22:55:52 IST 2020 domain:banking_cee user:Aubrey Wright sessionId:d4-8EXHEI3PV0HY clientIP:192.168.0.101 task:getUserProfile TYPE:GroovyAction@42886f34
+Sun Nov 01 22:56:07 IST 2020 domain:banking_cee user:Aubrey Wright sessionId:d4-8EXHEI3PV0HY clientIP:192.168.0.101 task:getCreditCardLimit TYPE:GroovyAction@2166a9fb
+Sun Nov 01 22:56:39 IST 2020 domain:banking_cee user:Aubrey Wright sessionId:d4-8EXHEI3PV0HY clientIP:192.168.0.101 task:fundTransfer TYPE:GroovyAction@4665c38c
+Sun Nov 01 22:56:59 IST 2020 domain:banking_cee user:Aubrey Wright sessionId:d4-8EXHEI3PV0HY clientIP:192.168.0.101 task:EVT_getUserOption TYPE:GroovyAction@68570495
+Sun Nov 01 22:57:30 IST 2020 domain:banking_cee user:Aubrey Wright sessionId:d4-8EXHEI3PV0HY clientIP:192.168.0.101 task:EVT_getDetails TYPE:GroovyAction@20495a11
+Sun Nov 01 23:04:38 IST 2020 domain:banking_cee user:John sessionId:d1-CSCBWJSXS0KY clientIP:192.168.0.101 task:getUserProfile TYPE:GroovyAction@21b05bc4
+Sun Nov 01 23:05:06 IST 2020 domain:banking_cee user:John sessionId:d1-CSCBWJSXS0KY clientIP:192.168.0.101 task:accountBalance TYPE:GroovyAction@2cece5b5
+Sun Nov 01 23:07:44 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d2-GMZTKWJMJH5U clientIP:192.168.0.101 task:getUserProfile TYPE:GroovyAction@2576617d
+Sun Nov 01 23:08:09 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d2-GMZTKWJMJH5U clientIP:192.168.0.101 task:accountBalance TYPE:GroovyAction@269b022c
+Sun Nov 01 23:08:22 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d2-GMZTKWJMJH5U clientIP:192.168.0.101 task:getCreditCardLimit TYPE:GroovyAction@748a51b5
+Sun Nov 01 23:08:43 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d2-GMZTKWJMJH5U clientIP:192.168.0.101 task:EVT_getUserOption TYPE:GroovyAction@3c56b25e
+Sun Nov 01 23:09:36 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d2-GMZTKWJMJH5U clientIP:192.168.0.101 task:EVT_getConfirmation TYPE:GroovyAction@6418fe6b
+Sun Nov 01 23:11:02 IST 2020 domain:banking_cee user:Aubrey Wright sessionId:d3-EMKEGNYNZHQY clientIP:192.168.0.101 task:getUserProfile TYPE:GroovyAction@700deb08
+Sun Nov 01 23:11:28 IST 2020 domain:banking_cee user:Aubrey Wright sessionId:d3-EMKEGNYNZHQY clientIP:192.168.0.101 task:getCreditCardLimit TYPE:GroovyAction@fa910cf
+Sun Nov 01 23:11:56 IST 2020 domain:banking_cee user:Aubrey Wright sessionId:d3-EMKEGNYNZHQY clientIP:192.168.0.101 task:fundTransfer TYPE:GroovyAction@2ef5b56e
+Sun Nov 01 23:12:25 IST 2020 domain:banking_cee user:Aubrey Wright sessionId:d3-EMKEGNYNZHQY clientIP:192.168.0.101 task:EVT_getUserOption TYPE:GroovyAction@62cc8662
+Sun Nov 01 23:13:11 IST 2020 domain:banking_cee user:Aubrey Wright sessionId:d3-EMKEGNYNZHQY clientIP:192.168.0.101 task:EVT_getDetails TYPE:GroovyAction@49c04b21

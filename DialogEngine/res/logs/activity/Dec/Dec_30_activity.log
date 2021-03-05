@@ -1,0 +1,16 @@
+Wed Dec 30 13:35:23 IST 2020 domain:trip user:puru sessionId:d1-KLREMZMENVVW clientIP:192.168.0.101 task:getTripInformation TYPE:GroovyAction@27267da1
+Wed Dec 30 16:30:19 IST 2020 domain:trip_en user:John sessionId:d1-FBU7DP66TEHM clientIP:192.168.0.101 task:getTripInformation TYPE:GroovyAction@1976d1b2
+Wed Dec 30 16:30:30 IST 2020 domain:trip_en user:John sessionId:d1-FBU7DP66TEHM clientIP:192.168.0.101 task:getWeatherInformation TYPE:HTTPAction@3fac3261
+Wed Dec 30 16:30:41 IST 2020 domain:trip_en user:John sessionId:d1-FBU7DP66TEHM clientIP:192.168.0.101 task:getWeatherInformation TYPE:HTTPAction@3fac3261
+Wed Dec 30 16:30:56 IST 2020 domain:trip_en user:John sessionId:d1-FBU7DP66TEHM clientIP:192.168.0.101 task:getWikipediaCityInfo TYPE:HTTPAction@4a4f9a4f
+Wed Dec 30 16:31:58 IST 2020 domain:banking_cee_en user:John sessionId:d1-BPXEENBVP3W9 clientIP:192.168.0.101 task:getUserProfile TYPE:GroovyAction@797da28
+Wed Dec 30 16:32:14 IST 2020 domain:banking_cee_en user:John sessionId:d1-BPXEENBVP3W9 clientIP:192.168.0.101 task:accountBalance TYPE:GroovyAction@4ea95e54
+Wed Dec 30 16:32:18 IST 2020 domain:banking_cee_en user:John sessionId:d1-BPXEENBVP3W9 clientIP:192.168.0.101 task:getTransactions TYPE:GroovyAction@2a591c61
+Wed Dec 30 16:32:33 IST 2020 domain:banking_cee_en user:John sessionId:d1-BPXEENBVP3W9 clientIP:192.168.0.101 task:fundTransfer TYPE:GroovyAction@1a4cdd40
+Wed Dec 30 16:32:49 IST 2020 domain:banking_cee_en user:John sessionId:d1-BPXEENBVP3W9 clientIP:192.168.0.101 task:addBeneficiary TYPE:GroovyAction@3b161ac4
+Wed Dec 30 16:33:40 IST 2020 domain:banking_cee_en user:puru sessionId:d2-CEV1C9UZZV9H clientIP:192.168.0.101 task:getUserProfile TYPE:GroovyAction@58d25774
+Wed Dec 30 16:38:34 IST 2020 domain:banking_cee_en user:John sessionId:d1-BPXEENBVP3W9 clientIP:192.168.0.101 task:accountBalance TYPE:GroovyAction@4ea95e54
+Wed Dec 30 16:40:03 IST 2020 domain:banking_cee_en user:puru sessionId:d2-CEV1C9UZZV9H clientIP:192.168.0.101 task:accountBalance TYPE:GroovyAction@620a8c26
+Wed Dec 30 16:50:36 IST 2020 domain:banking_cee_en user:puru sessionId:d2-CEV1C9UZZV9H clientIP:192.168.0.101 task:EVT_getUserOption TYPE:GroovyAction@1fcd6998
+Wed Dec 30 16:50:59 IST 2020 domain:banking_cee_en user:puru sessionId:d2-CEV1C9UZZV9H clientIP:192.168.0.101 task:EVT_getConfirmation TYPE:GroovyAction@5315be58
+Wed Dec 30 17:37:49 IST 2020 domain:banking_cee_en user:John sessionId:d3-ZYA4CYEZBHJO clientIP:192.168.0.101 task:getUserProfile TYPE:GroovyAction@3126f3e1

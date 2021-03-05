@@ -1,0 +1,16 @@
+Sun Feb 21 22:26:59 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getTripInformation TYPE:GroovyAction@51768776
+Sun Feb 21 22:28:06 IST 2021 domain:trip_en user:John sessionId:d1-BUQ4X08GNSY4 clientIP:127.0.0.1 task:getTripInformation TYPE:GroovyAction@735e2512
+Sun Feb 21 22:28:17 IST 2021 domain:trip_en user:John sessionId:d1-BUQ4X08GNSY4 clientIP:127.0.0.1 task:getWeatherInformation TYPE:HTTPAction@11c023f1
+Sun Feb 21 22:37:40 IST 2021 domain:trip_en user:John sessionId:d1-KUM79YPZIZEL clientIP:127.0.0.1 task:getTripInformation TYPE:GroovyAction@79d88dcf
+Sun Feb 21 22:37:57 IST 2021 domain:trip_en user:John sessionId:d1-KUM79YPZIZEL clientIP:127.0.0.1 task:getWeatherInformation TYPE:HTTPAction@66126762
+Sun Feb 21 22:50:17 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getTripInformation TYPE:GroovyAction@1051817b
+Sun Feb 21 22:50:29 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getWeatherInformation TYPE:HTTPAction@37864b77
+Sun Feb 21 22:54:05 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getTripInformation TYPE:GroovyAction@41beb473
+Sun Feb 21 22:54:16 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getWeatherInformation TYPE:HTTPAction@557eb543
+Sun Feb 21 22:56:18 IST 2021 domain:trip_en user:John sessionId:d1-N6AC8PHAVFML clientIP:127.0.0.1 task:getTripInformation TYPE:GroovyAction@79a739a9
+Sun Feb 21 22:56:31 IST 2021 domain:trip_en user:John sessionId:d1-N6AC8PHAVFML clientIP:127.0.0.1 task:getWeatherInformation TYPE:HTTPAction@4410b246
+Sun Feb 21 22:57:36 IST 2021 domain:trip_en user:John sessionId:d2-Y1CYX3K1ZRNI clientIP:127.0.0.1 task:getTripInformation TYPE:GroovyAction@1c0e9cef
+Sun Feb 21 22:57:46 IST 2021 domain:trip_en user:John sessionId:d2-Y1CYX3K1ZRNI clientIP:127.0.0.1 task:getWeatherInformation TYPE:HTTPAction@d1b032c
+Sun Feb 21 23:00:00 IST 2021 domain:trip_en user:John sessionId:d3-ESXJVNO74PPT clientIP:127.0.0.1 task:getTripInformation TYPE:GroovyAction@7c19404f
+Sun Feb 21 23:00:16 IST 2021 domain:trip_en user:John sessionId:d3-ESXJVNO74PPT clientIP:127.0.0.1 task:getWeatherInformation TYPE:HTTPAction@2804f597
+Sun Feb 21 23:01:18 IST 2021 domain:trip_en user:John sessionId:d3-ESXJVNO74PPT clientIP:127.0.0.1 task:getWeatherInformation TYPE:HTTPAction@2804f597

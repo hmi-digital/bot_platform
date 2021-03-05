@@ -1,0 +1,8 @@
+Tue Aug 11 14:50:57 IST 2020 domain:tf_support_en user:John sessionId:d1-KTZT2N6IQLAM clientIP:192.168.0.100 task:start utterance:S: What can I do for you? U: I want to install power adaptor
+Tue Aug 11 14:54:00 IST 2020 domain:tf_support_en user:John sessionId:d1-KTZT2N6IQLAM clientIP:192.168.0.100 task:PowerSupplySupport utterance:S: Please select type of power supply. U: dis cubit
+Tue Aug 11 16:57:29 IST 2020 domain:tf_support_en user:John sessionId:d1-CV2VH0YDQUFT clientIP:192.168.0.100 task:start utterance:S: What can I do for you? U: I want to install improve in adaptor power adaptor
+Tue Aug 11 17:11:17 IST 2020 domain:tf_support_en user:John sessionId:d3-310VGILZXEGM clientIP:192.168.0.100 task:start utterance:S: What can I do for you? U: install intervision power adaptor
+Tue Aug 11 17:50:28 IST 2020 domain:tf_support_en user:John sessionId:d1-BRZKSRDB3FFM clientIP:127.0.0.1 task:menu utterance:S: How may I help you? U: how do I get access and register to use my centre
+Tue Aug 11 17:51:00 IST 2020 domain:tf_support_en user:John sessionId:d1-BRZKSRDB3FFM clientIP:127.0.0.1 task:menu utterance:S: How may I help you? U: how do I access my centre
+Tue Aug 11 21:13:05 IST 2020 domain:tf_support_en user:John sessionId:d3-YRZQZBKBOSIA clientIP:192.168.0.101 task:start utterance:S: What can I do for you? U: install intro inverter invitrogen power supply doctor
+Tue Aug 11 21:13:30 IST 2020 domain:tf_support_en user:John sessionId:d3-YRZQZBKBOSIA clientIP:192.168.0.101 task:AdapterHelp utterance:S: Do you need DIY assistance? U: escape

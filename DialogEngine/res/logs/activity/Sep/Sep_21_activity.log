@@ -1,0 +1,13 @@
+Fri Sep 21 12:14:57 IST 2018 domain:trip_test user:test sessionId: clientIP: task:test TYPE:GroovyAction@69504ae9
+Fri Sep 21 12:15:28 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback TYPE:GroovyAction@7db82169
+Fri Sep 21 12:17:59 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getARReady TYPE:GroovyAction@5ea502e0
+Fri Sep 21 12:17:59 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_Step_1_Bayer TYPE:GroovyAction@7692cd34
+Fri Sep 21 13:35:07 IST 2018 domain:trip_test user:test sessionId: clientIP: task:getWeatherInformation TYPE:HTTPAction@368247b9
+Fri Sep 21 13:40:42 IST 2018 domain:trip_test user:test sessionId: clientIP: task:test TYPE:GroovyAction@6933b6c6
+Fri Sep 21 13:41:06 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getFeedback TYPE:GroovyAction@7a48e6e2
+Fri Sep 21 13:41:24 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_getARReady TYPE:GroovyAction@38875e7d
+Fri Sep 21 13:41:25 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_Step_1_Bayer TYPE:GroovyAction@1968a49c
+Fri Sep 21 13:41:34 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_Step_2_Bayer TYPE:GroovyAction@3d526ad9
+Fri Sep 21 13:41:37 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_Step_3_Bayer TYPE:GroovyAction@5b69fd74
+Fri Sep 21 13:41:40 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_Step_4_Bayer TYPE:GroovyAction@6bd51ed8
+Fri Sep 21 13:41:44 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_Step_5_Bayer TYPE:GroovyAction@7b02e036

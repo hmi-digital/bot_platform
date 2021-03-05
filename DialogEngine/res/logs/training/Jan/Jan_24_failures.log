@@ -1,0 +1,10 @@
+Fri Jan 24 14:01:59 IST 2020 domain:finovate_en user:Puru sessionId:d1-L2CBLRFPXZPS clientIP:10.88.252.111 task:createGoal utterance:S: what is the target date for your goal? U: Jain;
+Fri Jan 24 14:36:25 IST 2020 domain:finovate_en user:Puru sessionId:d1-ICN8MIXPHBZS clientIP:10.88.252.111 task:start utterance:S:  U: @GetAppointment;
+Fri Jan 24 14:41:07 IST 2020 domain:finovate_en user:Puru sessionId:d1-ICN8MIXPHBZS clientIP:10.88.252.111 task:start utterance:S:  U: @GetAppointment ;
+Fri Jan 24 15:48:20 IST 2020 domain:finovate_en user:test sessionId: clientIP: task:EVT_Get_Appointment utterance:S: <p>What is your contact number?.</p> U: +910123456789
+Fri Jan 24 16:27:42 IST 2020 domain:finovate_en user:test sessionId: clientIP: task:start utterance:S:  U: credit history
+Fri Jan 24 16:27:52 IST 2020 domain:finovate_en user:test sessionId: clientIP: task:start utterance:S:  U: what is my credit limit
+Fri Jan 24 16:28:02 IST 2020 domain:finovate_en user:test sessionId: clientIP: task:start utterance:S:  U: avialble creditlimit
+Fri Jan 24 16:28:15 IST 2020 domain:finovate_en user:test sessionId: clientIP: task:start utterance:S:  U: What is available credit limit
+Fri Jan 24 17:37:18 IST 2020 domain:finovate_en user:Puru sessionId:d1-AGFUECNCO56E clientIP:10.88.252.111 task:createGoal utterance:S: what is the target date for your goal? U: Jain;
+Fri Jan 24 19:54:22 IST 2020 domain:finovate_en user:Puru sessionId:d1-H6XDCN80HT39 clientIP:10.88.252.111 task:start utterance:S:  U: no thanks so this;

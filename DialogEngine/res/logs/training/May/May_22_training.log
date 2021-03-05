@@ -1,0 +1,8 @@
+Tue May 22 12:13:21 IST 2018 domain:trip_en user: sessionId: clientIP: task:start utterance:S: Hi %loginUser , How may I help you? U: ??
+Tue May 22 12:30:20 IST 2018 domain:trip_en user: sessionId: clientIP: task:start utterance:S: Hi %loginUser , How may I help you? U: #tripInformation
+Tue May 22 12:31:11 IST 2018 domain:trip_en user: sessionId: clientIP: task:start utterance:S: Hi %loginUser , How may I help you? U: [A
+Tue May 22 12:31:21 IST 2018 domain:trip_en user: sessionId: clientIP: task:start utterance:S: Hi %loginUser , How may I help you? U: #getTtipInformation
+Tue May 22 12:31:26 IST 2018 domain:trip_en user: sessionId: clientIP: task:start utterance:S: Hi %loginUser , How may I help you? U: [A
+Tue May 22 17:34:15 IST 2018 domain:trip_ar user: sessionId: clientIP: task:start utterance:S: كيف يمكنني مساعدتك؟ U: اريد حجز تذكرة
+Tue May 22 19:35:28 IST 2018 domain:trip_ar user: sessionId: clientIP: task:start utterance:S: كيف يمكنني مساعدتك؟ U: تحتاج إلى تخطيط رحلة
+Tue May 22 19:56:33 IST 2018 domain:trip_ar user: sessionId: clientIP: task:getTripInformation utterance:S: في أي صف تريد السفر؟ U: friday

@@ -1,0 +1,11 @@
+Sun Jul 15 21:01:36 IST 2018 domain:trip_en user:John sessionId:d2-G7NWFOH12ZE7 clientIP:192.168.0.104 task:start utterance:S: What can I do for you? U: Hi
+Sun Jul 15 21:02:09 IST 2018 domain:trip_en user:John sessionId:d2-G7NWFOH12ZE7 clientIP:192.168.0.104 task:start utterance:S: How may I help you? U: Hi
+Sun Jul 15 21:02:50 IST 2018 domain:trip_en user:John sessionId:d2-G7NWFOH12ZE7 clientIP:192.168.0.104 task:start utterance:S: What can I do for you? U: Hi
+Sun Jul 15 21:09:13 IST 2018 domain:trip_en user:John sessionId:d2-G7NWFOH12ZE7 clientIP:192.168.0.104 task:start utterance:S: What can I do for you? U: ??
+Sun Jul 15 21:09:17 IST 2018 domain:trip_en user:John sessionId:d2-G7NWFOH12ZE7 clientIP:192.168.0.104 task:start utterance:S: How may I help you? U: hi
+Sun Jul 15 21:09:33 IST 2018 domain:trip_en user:John sessionId:d2-G7NWFOH12ZE7 clientIP:192.168.0.104 task:start utterance:S: How may I help you? U: Hi
+Sun Jul 15 21:09:43 IST 2018 domain:trip_en user:John sessionId:d2-G7NWFOH12ZE7 clientIP:192.168.0.104 task:start utterance:S: What can I do for you? U: hi
+Sun Jul 15 21:10:36 IST 2018 domain:trip_en user:test sessionId: clientIP: task:start utterance:S: How may I help you? U: Hi
+Sun Jul 15 21:10:42 IST 2018 domain:trip_en user:test sessionId: clientIP: task:start utterance:S: How may I help you? U: ??
+Sun Jul 15 21:14:47 IST 2018 domain:trip_en user:test sessionId: clientIP: task:start utterance:S: What can I do for you? U: Hi
+Sun Jul 15 21:23:45 IST 2018 domain:trip_en user:John sessionId:d1-XDIRJEH2KBY7 clientIP:192.168.0.104 task:start utterance:S: What can I do for you? U: hi

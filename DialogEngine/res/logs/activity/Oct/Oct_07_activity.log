@@ -1,0 +1,13 @@
+Wed Oct 07 10:23:01 IST 2020 domain:banking_cee user:John sessionId:d1-F8ABXBJN4J7P clientIP:127.0.0.1 task:getCreditCardLimit TYPE:GroovyAction@7051cebf
+Wed Oct 07 10:24:45 IST 2020 domain:banking_cee user:John sessionId:d1-4JZUSI2OCMKF clientIP:127.0.0.1 task:getCreditCardLimit TYPE:GroovyAction@2c48f83e
+Wed Oct 07 10:27:11 IST 2020 domain:banking_cee user:John sessionId:d1-YONZB6EYWWD0 clientIP:127.0.0.1 task:getCreditCardLimit TYPE:GroovyAction@7f547986
+Wed Oct 07 10:27:13 IST 2020 domain:banking_cee user:John sessionId:d1-YONZB6EYWWD0 clientIP:127.0.0.1 task:notificationTask TYPE:GroovyAction@16997adf
+Wed Oct 07 10:34:40 IST 2020 domain:banking_cee user:John sessionId:d1-EYTIQLKU7YWW clientIP:127.0.0.1 task:getCreditCardLimit TYPE:GroovyAction@5ce6a555
+Wed Oct 07 10:34:42 IST 2020 domain:banking_cee user:John sessionId:d1-EYTIQLKU7YWW clientIP:127.0.0.1 task:notificationTask TYPE:GroovyAction@40f1a705
+Wed Oct 07 10:53:27 IST 2020 domain:banking_cee user:John sessionId:d1-UUF9NWMXTHFP clientIP:127.0.0.1 task:getCreditCardLimit TYPE:GroovyAction@434cf79b
+Wed Oct 07 10:55:22 IST 2020 domain:banking_cee user:John sessionId:d1-B0PW1MVENBOP clientIP:127.0.0.1 task:getCreditCardLimit TYPE:GroovyAction@16b3c728
+Wed Oct 07 10:55:27 IST 2020 domain:banking_cee user:John sessionId:d1-B0PW1MVENBOP clientIP:127.0.0.1 task:notificationTask TYPE:GroovyAction@4d3f40e8
+Wed Oct 07 11:01:02 IST 2020 domain:banking_cee user:John sessionId:d1-KBBTWWAEZOAU clientIP:127.0.0.1 task:getCreditCardLimit TYPE:GroovyAction@57fc45f2
+Wed Oct 07 11:01:19 IST 2020 domain:banking_cee user:John sessionId:d1-KBBTWWAEZOAU clientIP:127.0.0.1 task:EVT_getUserOption TYPE:GroovyAction@21e5f887
+Wed Oct 07 11:01:47 IST 2020 domain:banking_cee user:John sessionId:d1-KBBTWWAEZOAU clientIP:127.0.0.1 task:EVT_getDetails TYPE:GroovyAction@750cdd0f
+Wed Oct 07 11:08:17 IST 2020 domain:banking_cee user:John sessionId:d1-N5KBFWZ8SE9Y clientIP:127.0.0.1 task:getCreditCardLimit TYPE:GroovyAction@5d9ec44e

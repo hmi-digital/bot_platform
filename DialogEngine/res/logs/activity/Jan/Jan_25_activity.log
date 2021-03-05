@@ -1,0 +1,7 @@
+Mon Jan 25 09:26:44 IST 2021 domain:banking_cee user:test sessionId:d1-DUMMYSESSION clientIP: task:getUserProfile TYPE:GroovyAction@13b3d178
+Mon Jan 25 09:33:03 IST 2021 domain:banking_cee user:test sessionId:d1-DUMMYSESSION clientIP: task:getUserProfile TYPE:GroovyAction@13b3d178
+Mon Jan 25 11:14:10 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getTripInformation TYPE:GroovyAction@1253e7cb
+Mon Jan 25 11:15:08 IST 2021 domain:trip_en user:John sessionId:d1-QDTUGO69QPTS clientIP:192.168.0.103 task:getTripInformation TYPE:GroovyAction@3bbd4595
+Mon Jan 25 11:24:53 IST 2021 domain:trip_en user:John sessionId:d1-5SAU6SZCSUAD clientIP:192.168.0.103 task:getTripInformation TYPE:GroovyAction@4234c619
+Mon Jan 25 11:36:50 IST 2021 domain:trip_en user:John sessionId:d1-HGFQHBNJCLFX clientIP:192.168.0.103 task:getTripInformation TYPE:GroovyAction@11073037
+Mon Jan 25 11:55:35 IST 2021 domain:trip_en user:John sessionId:d1-422GU7LNV8IO clientIP:192.168.0.103 task:getWeatherInformation TYPE:HTTPAction@6097e53e

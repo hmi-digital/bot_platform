@@ -1,0 +1,6 @@
+Thu Oct 15 10:07:04 IST 2020 domain:banking_cee user:Cordelia Sharp sessionId:d5-BPQ2QPRVPPUQ clientIP:192.168.0.101 task:getCreditCardLimit utterance:S: what are the last 4 digits of your credit card? U: 468
+Thu Oct 15 10:07:17 IST 2020 domain:banking_cee user:Cordelia Sharp sessionId:d5-BPQ2QPRVPPUQ clientIP:192.168.0.101 task:getCreditCardLimit utterance:S: last 4 digits of your credit card? U: 468
+Thu Oct 15 10:23:41 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d6-WUPRTG6LLOCA clientIP:192.168.0.101 task:accountBalance utterance:S: what are the last 4 digits of your account? U: it is 3590
+Thu Oct 15 10:29:29 IST 2020 domain:banking_cee user:Aubrey Wright sessionId:d9-KVHGU7BILWYP clientIP:192.168.0.101 task:getCreditCardLimit utterance:S: last 4 digits of your credit card? U: it is 3.79
+Thu Oct 15 10:33:37 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d12-G1MJ2EUGHQ9S clientIP:192.168.0.101 task:accountBalance utterance:S: what are the last 4 digits of your account? U: it is 3590
+Thu Oct 15 10:57:27 IST 2020 domain:banking_cee user:Gus Holmes sessionId:d3-9HHXS2GQSB35 clientIP:192.168.0.101 task:getCreditCardLimit utterance:S: what are the last 4 digits of your credit card? U: it is 468

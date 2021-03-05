@@ -1,0 +1,12 @@
+Sat Aug 22 00:48:34 IST 2020 domain:gmeter_en user:John sessionId:d20-WSGBAGFEVVBQ clientIP:192.168.0.103 task:getGmeterGuide utterance:S: Do you need DIY assistance? U: kiss kiss
+Sat Aug 22 00:48:37 IST 2020 domain:gmeter_en user:John sessionId:d20-WSGBAGFEVVBQ clientIP:192.168.0.103 task:getGmeterGuide utterance:S: Do you need DIY assistance? U: ok
+Sat Aug 22 10:05:02 IST 2020 domain:gmeter_en user:John sessionId:d21-1W2GONFS9C2L clientIP:192.168.0.103 task:start utterance:S: How may I help you? U: 12 committee
+Sat Aug 22 10:20:54 IST 2020 domain:gmeter_en user:John sessionId:d26-B9NQFGFR0YY8 clientIP:192.168.0.103 task:start utterance:S: What can I do for you? U: what is the comet
+Sat Aug 22 10:20:56 IST 2020 domain:gmeter_en user:John sessionId:d26-B9NQFGFR0YY8 clientIP:192.168.0.103 task:start utterance:S: How may I help you? U: yes please
+Sat Aug 22 10:33:33 IST 2020 domain:gmeter_en user:John sessionId:d29-D3UI2MZLZSZO clientIP:192.168.0.103 task:getGmeterGuide utterance:S: Do you need DIY assistance? U: SP
+Sat Aug 22 10:46:53 IST 2020 domain:gmeter_en user:John sessionId:d33-OKMB7RJPZNOO clientIP:192.168.0.103 task:getGmeterGuide utterance:S: Do you need DIY assistance? U: BSP
+Sat Aug 22 12:22:07 IST 2020 domain:gmeter_en user:John sessionId:d54-HCDBZRURQKUM clientIP:192.168.0.103 task:start utterance:S: How may I help you? U: it is blue comedy
+Sat Aug 22 12:45:06 IST 2020 domain:gmeter_en user:John sessionId:d63-DOGY8MTHWFDD clientIP:192.168.0.103 task:start utterance:S: What can I do for you? U: I want to commit
+Sat Aug 22 12:45:24 IST 2020 domain:gmeter_en user:John sessionId:d63-DOGY8MTHWFDD clientIP:192.168.0.103 task:getGmeterGuide utterance:S: Do you need DIY assistance? U: BSP
+Sat Aug 22 12:45:37 IST 2020 domain:gmeter_en user:John sessionId:d63-DOGY8MTHWFDD clientIP:192.168.0.103 task:getGmeterGuide utterance:S: Do you need DIY assistance? U: GST
+Sat Aug 22 13:21:18 IST 2020 domain:gmeter_en user:John sessionId:d67-JYFVXJNV9PCF clientIP:192.168.0.103 task:getGmeterGuide utterance:S: Do you need DIY assistance? U: Jas Geet

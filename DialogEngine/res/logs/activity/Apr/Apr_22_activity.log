@@ -1,0 +1,6 @@
+Wed Apr 22 17:26:40 IST 2020 domain:trip_en user:John sessionId:d1-XVHQDTJR7XEI clientIP:192.168.0.103 task:getTripInformation TYPE:GroovyAction@73615911
+Wed Apr 22 18:43:50 IST 2020 domain:finovate_en user:John sessionId:d1-DEWFVB9MTCSE clientIP:192.168.0.103 task:createGoal TYPE:GroovyAction@c48deb0
+Wed Apr 22 18:43:52 IST 2020 domain:finovate_en user:John sessionId:d1-DEWFVB9MTCSE clientIP:192.168.0.103 task:tsk_notification TYPE:GroovyAction@47095d7d
+Wed Apr 22 18:46:59 IST 2020 domain:finovate_en user:Puru sessionId:d2-SKSU79IQGYVN clientIP:192.168.0.106 task:getCreditCardLimit TYPE:GroovyAction@52a5e033
+Wed Apr 22 18:47:35 IST 2020 domain:finovate_en user:Puru sessionId:d2-SKSU79IQGYVN clientIP:192.168.0.106 task:createGoal TYPE:GroovyAction@445975c4
+Wed Apr 22 18:47:35 IST 2020 domain:finovate_en user:Puru sessionId:d2-SKSU79IQGYVN clientIP:192.168.0.106 task:tsk_notification TYPE:GroovyAction@6b55189d

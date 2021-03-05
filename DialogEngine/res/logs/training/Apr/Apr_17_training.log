@@ -1,0 +1,6 @@
+Tue Apr 17 11:44:14 IST 2018 domain:trip user: sessionId: clientIP: task:start utterance:S: What can I do for you? U: book a ticket
+Tue Apr 17 12:40:07 IST 2018 domain:trip_da user: sessionId: clientIP: task:getTripInformation utterance:S: hvor vil du hen? U: Få mig ud af denne opgave
+Tue Apr 17 12:40:12 IST 2018 domain:trip_da user: sessionId: clientIP: task:getTripInformation utterance:S: hvor vil du hen? U: yes
+Tue Apr 17 13:50:09 IST 2018 domain:trip_da user: sessionId: clientIP: task:start utterance:S: Hvordan kan jeg h jælpe dig? U: Fortæl mig mere om denne by
+Tue Apr 17 14:03:33 IST 2018 domain:trip_da user: sessionId: clientIP: task:start utterance:S: Hvordan kan jeg h jælpe dig? U: Fortæl mig mere om denne by
+Tue Apr 17 14:03:51 IST 2018 domain:trip_da user: sessionId: clientIP: task:start utterance:S: Hvordan kan jeg h jælpe dig? U: Pune

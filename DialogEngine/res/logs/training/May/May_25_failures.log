@@ -1,0 +1,9 @@
+Mon May 25 18:00:46 IST 2020 domain:banking_en user:test sessionId: clientIP: task:accountBalance utterance:S: is it a Checking or Savings account? U: Saving
+Mon May 25 19:00:24 IST 2020 domain:banking_en user:test sessionId: clientIP: task:start utterance:S: How may I help you? U: last transaction
+Mon May 25 19:00:47 IST 2020 domain:banking_en user:test sessionId: clientIP: task:start utterance:S: How may I help you? U: what are my transaction
+Mon May 25 23:08:57 IST 2020 domain:banking_en user:Abhiram sessionId:d2-OKDOAMXNFW7K clientIP:192.168.0.102 task:accountBalance utterance:S: what is the type of account- Savings or Checkings? U: stitching;
+Mon May 25 23:24:46 IST 2020 domain:banking_en user:Raj sessionId:d2-TQYNIQEFZJQU clientIP:192.168.0.102 task:getTransactions utterance:S: last 4 digits of your account? U: null1470;
+Mon May 25 23:24:57 IST 2020 domain:banking_en user:Raj sessionId:d2-TQYNIQEFZJQU clientIP:192.168.0.102 task:getTransactions utterance:S: last 4 digits of your account? U: null1470;
+Mon May 25 23:28:00 IST 2020 domain:banking_en user:John sessionId:d3-EM1GLRPOKXYJ clientIP:192.168.0.103 task:start utterance:S: What can I do for you? U: good morning good morning
+Mon May 25 23:46:44 IST 2020 domain:banking_en user:John sessionId:d1-WBQ5QTZABJM2 clientIP:192.168.0.103 task:fundTransfer utterance:S: who would recieve this money or beneficiary? U: John Dube
+Mon May 25 23:47:18 IST 2020 domain:banking_en user:John sessionId:d1-WBQ5QTZABJM2 clientIP:192.168.0.103 task:fundTransfer utterance:S: what date you would initiate this transfer? U: Maruti

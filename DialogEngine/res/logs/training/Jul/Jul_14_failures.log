@@ -1,0 +1,3 @@
+Tue Jul 14 22:29:46 IST 2020 domain:trip_en user:John sessionId:d73-38FRIFMOFBWG clientIP:0:0:0:0:0:0:0:1 task:getTripInformation utterance:S: where do you want to go? U: Mumabai
+Tue Jul 14 22:35:05 IST 2020 domain:trip_en user:John sessionId:d74-J6NTEMCOHYWH clientIP:0:0:0:0:0:0:0:1 task:getTripInformation utterance:S: where do you want to go? U: Mumabi
+Tue Jul 14 23:12:19 IST 2020 domain:trip_en user:John sessionId:d2-IK02LTBDWPPR clientIP:192.168.0.102 task:getTripInformation utterance:S: what city do you want to travel? U: Mumabi

@@ -1,0 +1,10 @@
+Sat Jul 18 16:20:58 IST 2020 domain:banking_en user:John sessionId:d6-NTKAPCLPA6PJ clientIP:0:0:0:0:0:0:0:1 task:start utterance:S: How may I help you? U: last trnsaction savings
+Sat Jul 18 17:07:15 IST 2020 domain:banking_en user:John sessionId:d11-UUY6TODN9NG1 clientIP:0:0:0:0:0:0:0:1 task:start utterance:S: How may I help you? U: last trnsactions
+Sat Jul 18 19:12:45 IST 2020 domain:banking_en user:John sessionId:d42-FXOAIYTLR3RZ clientIP:0:0:0:0:0:0:0:1 task:start utterance:S: What can I do for you? U: this is good
+Sat Jul 18 19:18:26 IST 2020 domain:banking_en user:John sessionId:d43-QSU94OSYDCUI clientIP:0:0:0:0:0:0:0:1 task:start utterance:S: How may I help you? U: this is good
+Sat Jul 18 19:21:24 IST 2020 domain:banking_en user:John sessionId:d44-PJG0TRQ5SXPG clientIP:0:0:0:0:0:0:0:1 task:start utterance:S: How may I help you? U: this is good
+Sat Jul 18 20:46:38 IST 2020 domain:banking_en user:John sessionId:d59-BA34WC3ZTKU9 clientIP:0:0:0:0:0:0:0:1 task:start utterance:S: What can I do for you? U: this is good
+Sat Jul 18 21:35:08 IST 2020 domain:banking_en user:John sessionId:d66-SXOMRAQR1RPH clientIP:0:0:0:0:0:0:0:1 task:getTransactions utterance:S: last 4 digits of your account? U: 3649
+Sat Jul 18 21:50:39 IST 2020 domain:banking_en user:John sessionId:d74-Z6QQ6CIMNGPU clientIP:0:0:0:0:0:0:0:1 task:start utterance:S: What can I do for you? U: this is good
+Sat Jul 18 22:07:05 IST 2020 domain:banking_en user:John sessionId:d82-SKY4O2NWAJIR clientIP:0:0:0:0:0:0:0:1 task:start utterance:S: How may I help you? U: this is good
+Sat Jul 18 22:10:54 IST 2020 domain:banking_en user:John sessionId:d84-QETQFOV75IMK clientIP:0:0:0:0:0:0:0:1 task:start utterance:S: How may I help you? U: this looks good

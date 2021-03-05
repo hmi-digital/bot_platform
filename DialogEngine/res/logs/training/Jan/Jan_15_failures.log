@@ -1,0 +1,2 @@
+Fri Jan 15 22:59:43 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:start utterance:S: How may I help you? U: this is going good
+Fri Jan 15 23:06:52 IST 2021 domain:trip_en user:John sessionId:d1-SBN7QOI08UFZ clientIP:192.168.0.101 task:getTripInformation utterance:S: where do you want to go? U: what is CVV number

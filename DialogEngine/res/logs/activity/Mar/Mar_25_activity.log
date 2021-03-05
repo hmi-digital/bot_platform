@@ -1,0 +1,2 @@
+Sun Mar 25 23:10:12 IST 2018 domain:trip user: sessionId: clientIP: task:getWeatherInformation TYPE:HTTPAction@1e6a3214
+Sun Mar 25 23:12:56 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation TYPE:GroovyAction@1349883

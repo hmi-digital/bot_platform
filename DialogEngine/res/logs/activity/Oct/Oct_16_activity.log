@@ -1,0 +1,11 @@
+Fri Oct 16 19:35:58 IST 2020 domain:banking_en user:John sessionId:d1-RBQFDUO92KPN clientIP:192.168.0.101 task:accountBalance TYPE:GroovyAction@761e744d
+Fri Oct 16 19:36:35 IST 2020 domain:banking_en user:John sessionId:d1-RBQFDUO92KPN clientIP:192.168.0.101 task:fundTransfer TYPE:GroovyAction@36ecbb7f
+Fri Oct 16 19:37:15 IST 2020 domain:banking_en user:John sessionId:d1-RBQFDUO92KPN clientIP:192.168.0.101 task:getTransactions TYPE:GroovyAction@633d89ed
+Fri Oct 16 19:39:56 IST 2020 domain:banking_en user:John sessionId:d1-7QOO9F8Q63YV clientIP:192.168.0.101 task:accountBalance TYPE:GroovyAction@7de94331
+Fri Oct 16 19:40:01 IST 2020 domain:banking_en user:John sessionId:d1-7QOO9F8Q63YV clientIP:192.168.0.101 task:getTransactions TYPE:GroovyAction@34e80dc4
+Fri Oct 16 19:43:51 IST 2020 domain:banking_en user:John sessionId:d1-VKP59MWAMXMQ clientIP:192.168.0.101 task:accountBalance TYPE:GroovyAction@2add7720
+Fri Oct 16 19:44:57 IST 2020 domain:banking_en user:John sessionId:d1-VKP59MWAMXMQ clientIP:192.168.0.101 task:fundTransfer TYPE:GroovyAction@2c20a463
+Fri Oct 16 19:46:30 IST 2020 domain:banking_en user:John sessionId:d1-VKP59MWAMXMQ clientIP:192.168.0.101 task:getTransactions TYPE:GroovyAction@3d4d4a29
+Fri Oct 16 21:06:58 IST 2020 domain:banking_en user:John sessionId:d1-9YEZ7JVSYHKN clientIP:192.168.0.101 task:accountBalance TYPE:GroovyAction@6dfe8765
+Fri Oct 16 21:07:50 IST 2020 domain:banking_en user:John sessionId:d1-9YEZ7JVSYHKN clientIP:192.168.0.101 task:fundTransfer TYPE:GroovyAction@4fc232e0
+Fri Oct 16 21:08:20 IST 2020 domain:banking_en user:John sessionId:d1-9YEZ7JVSYHKN clientIP:192.168.0.101 task:getTransactions TYPE:GroovyAction@8e1f014

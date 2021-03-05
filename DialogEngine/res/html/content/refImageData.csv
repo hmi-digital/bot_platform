@@ -1,0 +1,4 @@
+#ID,ReferenceImage URL,Width in centimeter
+Glucometer,"https://192.168.0.101:8080/content/glucoMeter.png","13.55"
+CiscoModem_F,"https://192.168.0.101:8080/content/cisco_2160_front.png","36.12"
+CiscoModem_B,"https://192.168.0.101:8080/content/cisco_2160_back.png","36.12"

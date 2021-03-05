@@ -1,0 +1,2 @@
+Tue Jan 08 14:32:20 IST 2019 domain:trip_en user:John sessionId:d1-D4UMXZKSR2VF clientIP:10.88.250.43 task:getWeatherInformation TYPE:HTTPAction@2e8466a4
+Tue Jan 08 14:33:06 IST 2019 domain:trip_en user:John sessionId:d1-D4UMXZKSR2VF clientIP:10.88.250.43 task:getTripInformation TYPE:GroovyAction@3cb97120

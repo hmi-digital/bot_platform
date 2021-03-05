@@ -1,0 +1,14 @@
+##DO NOT REMOVE THIS LINE - to check months
+Previous=PREV
+Prev=PREV
+Up=PREV
+OK=NEXT
+okey=NEXT
+Next=NEXT
+down=NEXT
+Exit=EXIT
+Stop=EXIT
+Out=EXIT
+Play=PLAY
+Replay=PLAY
+Repeat=PLAY

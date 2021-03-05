@@ -1,0 +1,2 @@
+Tue Dec 25 12:17:55 IST 2018 domain:trip_en user:John sessionId:d1-5LYTP95CSA7M clientIP:10.88.250.75 task:getWeatherInformation utterance:U: #getWeatherInformation S: The temperature in Mumbai is 29 degrees.
+Tue Dec 25 20:16:05 IST 2018 domain:trip_en user:John sessionId:d1-HMGBMJFM4TRS clientIP:192.168.0.101 task:getTripInformation utterance:U: #getTripInformation S: Hey John , this trip to Pune costs 255 Dollars.

@@ -1,0 +1,166 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+
+/* =============================================================================
+	Media Queries 
+========================================================================== */
+
+@media only screen and (min-width: 320px) and (max-width: 768px) {
+    /* ------------ Header wrap css started ------------ */
+    body {
+        margin-top: 0;
+        background-repeat: repeat-y;
+    }
+    .container {
+        padding: 0;
+    }
+    .container > .col-md-12 {
+        width: 100%;
+        padding: 0;
+    }
+    .speech {
+        width: 100%;
+    }
+    #welcome-wrapper .welcome-container.col-lg-5 {
+        margin-left: 0;
+    }
+    #welcome-wrapper .welcome-container.col-xs-12,
+    #welcome-wrapper .col-sm-12 {
+        margin: 0 15px;
+        width: calc(100% - 30px);
+    }
+    .user-profile-pic {
+        display: none;
+    }
+    .nano-container {
+        width: 100%;
+        margin-left: 0;
+    }
+    #header {
+        height: 42px;
+        padding: 0;
+    }
+    #header .user-name {
+        margin: 15px 0 0;
+    }
+    #task-details {
+        height: auto !important;
+    }
+    
+    .chat-header {
+        margin-top: -10px;
+    }
+    .chat-header .input-group {
+        margin-left: 10px;
+    }
+    .radio.radio-inline {
+        font-size: 11px;
+    }
+    .home-speaker {
+        margin-top: -103px;
+        width: 100px;
+    }
+    .nano-container {
+        margin-top: 0;
+    }
+    .welcome-container .speaker {
+            width: 100px;
+    margin: 0 auto;
+    margin-top: -90px;
+    }
+    .welcome-container .btn-start,    
+    .welcome-container .btn-start:hover,
+    .welcome-container .btn-start:active {
+        width: 60px;
+        background: url(../img/ic_pointer-sm.png);
+        width: 73px;
+        height:  73px;
+    }
+    #login-wrapper {
+        position: relative;
+    }
+    #welcome-wrapper {
+        margin-top: 100px;
+    }
+    #welcome-wrapper .welcome-container {
+        min-height: 193px;
+    }
+    .welcome-container .welcome-footer {
+        top: 25px;
+    }
+    .welcome-container .welcome-content h2 {
+        font-size: 1.5em;
+    }
+    /* ------------ Header wrap css End ------------ */
+    /* ------------ Thumbnail css started ------------ */
+}
+
+@media only screen and (min-width: 769px) and (max-width: 991px) {
+    #welcome-wrapper .welcome-container.col-xs-12,
+    #welcome-wrapper .col-sm-12 {
+        margin: 0 15px;
+        width: calc(100% - 30px);
+    }
+}
+
+/*@media only screen and (min-width: 992px) and (max-width: 1280px) {
+    #welcome-wrapper .welcome-container.col-lg-5 {
+        margin-left: 30%;
+    }
+}
+*/
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    .media-block .media-body {
+        /*width: 79%;*/
+        width: 76%;
+        /*new*/
+        padding-left: 0;
+    }
+    .media-block .media-body.speech-right {
+        padding-right: 0;
+    }
+    .lima-bot-logo {
+        margin: 4px 5px 0 5px;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 360px) {
+    .chat-wrapper .panel-heading .col-xs-10 {
+        padding-right: 0;
+    }
+    .chat-wrapper .panel-heading .col-xs-2 {
+        padding-right: 0;
+    }
+    .media-block .media-body {
+        padding-right: 0;
+    }
+    .panel-heading .panel-title {
+        font-size: 1.3em;
+    }
+    .panel-heading h5 {
+        font-size: 0.9em;
+    }
+    .media-block .media-body.speech-right,
+    .media-block .media-body.pad-hor {
+        padding-left: 0;
+    }
+    .col-xs-10.padding-left-0 {
+        padding-left: 15px;
+    }
+}
+
+@media (min-width: 992px) {
+    .col-md-offset-3 {
+        margin-left: 28%;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1135px) {
+    .nano-container {
+        width: 94%;
+        margin-left: 3%;
+    }
+}

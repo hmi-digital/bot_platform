@@ -1,0 +1,3 @@
+Fri Jun 08 22:32:37 IST 2018 domain:trip_en user:John sessionId:d1-SQJMTYXZZCOO clientIP:192.168.0.102 task:DOMAIN_FAQ utterance:U: What is ??? ? S: ATM is cash withdrawl machine. 
+Fri Jun 08 23:13:52 IST 2018 domain:trip_en user:John sessionId:d1-JUHIHLFWCBRM clientIP:192.168.0.102 task:getTripInformation utterance:U: #getTripInformation S: Hey John and d?-???????????? , this trip to London costs ??? Dollars. We have taken additional info good;
+Fri Jun 08 23:13:55 IST 2018 domain:trip_en user:John sessionId:d1-JUHIHLFWCBRM clientIP:192.168.0.102 task:getTripInformation utterance:U: #getTripInformation S: Hey John and d?-???????????? , this trip to London costs ??? Dollars. We have taken additional info good;

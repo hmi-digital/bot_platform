@@ -1,0 +1,10 @@
+Sun Oct 18 23:46:03 IST 2020 domain:banking_cee user:test sessionId: clientIP: task:getUserProfile TYPE:GroovyAction@1ea9f6af
+Sun Oct 18 23:46:57 IST 2020 domain:banking_cee user:John sessionId:d1-NDVKDO6J32NO clientIP:192.168.0.101 task:getUserProfile TYPE:GroovyAction@66ba418
+Sun Oct 18 23:53:18 IST 2020 domain:banking_cee user:test sessionId: clientIP: task:getUserProfile TYPE:GroovyAction@1ea9f6af
+Sun Oct 18 23:54:24 IST 2020 domain:banking_cee user:John sessionId:d1-CULS2XROFTIR clientIP:192.168.0.101 task:getUserProfile TYPE:GroovyAction@2ddbebd1
+Sun Oct 18 23:54:52 IST 2020 domain:banking_cee user:John sessionId:d1-CULS2XROFTIR clientIP:192.168.0.101 task:fundTransfer TYPE:GroovyAction@48010c4e
+Sun Oct 18 23:56:15 IST 2020 domain:banking_cee user:test sessionId: clientIP: task:getUserProfile TYPE:GroovyAction@1ea9f6af
+Sun Oct 18 23:56:53 IST 2020 domain:banking_cee user:test sessionId: clientIP: task:fundTransfer TYPE:GroovyAction@3b96c42e
+Sun Oct 18 23:57:57 IST 2020 domain:banking_cee user:test sessionId: clientIP: task:getUserProfile TYPE:GroovyAction@1ea9f6af
+Sun Oct 18 23:58:32 IST 2020 domain:banking_cee user:test sessionId: clientIP: task:fundTransfer TYPE:GroovyAction@3b96c42e
+Sun Oct 18 23:59:17 IST 2020 domain:banking_cee user:test sessionId: clientIP: task:getUserProfile TYPE:GroovyAction@1ea9f6af

@@ -1,0 +1,8 @@
+Tue Jul 21 17:47:19 IST 2020 domain:banking_ar user:John sessionId:d1-YM9XYRTKTFND clientIP:192.168.0.104 task:getTransactions TYPE:GroovyAction@7d1018d4
+Tue Jul 21 17:49:40 IST 2020 domain:banking_ar user:John sessionId:d2-XSSIIBV8C2TS clientIP:192.168.0.104 task:getTransactions TYPE:GroovyAction@42576da7
+Tue Jul 21 17:53:03 IST 2020 domain:banking_ar user:John sessionId:d3-8UGRTOO6E55T clientIP:192.168.0.106 task:getTransactions TYPE:GroovyAction@22f620ad
+Tue Jul 21 17:54:07 IST 2020 domain:banking_ar user:John sessionId:d3-8UGRTOO6E55T clientIP:192.168.0.106 task:cancelTask TYPE:GroovyAction@4e89f109
+Tue Jul 21 17:56:51 IST 2020 domain:banking_ar user:John sessionId:d3-8UGRTOO6E55T clientIP:192.168.0.106 task:getTransactions TYPE:GroovyAction@22f620ad
+Tue Jul 21 19:52:40 IST 2020 domain:banking_en user:John sessionId:d1-FEOYMHBSTYCO clientIP:127.0.0.1 task:accountBalance TYPE:GroovyAction@4689be61
+Tue Jul 21 19:53:39 IST 2020 domain:banking_en user:John sessionId:d1-FEOYMHBSTYCO clientIP:127.0.0.1 task:fundTransfer TYPE:GroovyAction@2ab63be0
+Tue Jul 21 19:54:36 IST 2020 domain:banking_en user:John sessionId:d1-FEOYMHBSTYCO clientIP:127.0.0.1 task:getTransactions TYPE:GroovyAction@67918846

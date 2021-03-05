@@ -1,0 +1,8 @@
+Sat Feb 10 15:42:51 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation utterance:S: additional info that you want to provide ? U: sachin plays nice cricket
+Sat Feb 10 16:14:00 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation utterance:S: additional info that you want to provide ? U: Sachin plays a good cricket
+Sat Feb 10 16:14:55 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation utterance:S: additional info that you want to provide ? U: not bale to see report in remedy
+Sat Feb 10 17:46:47 IST 2018 domain:trip user: sessionId: clientIP: task:start utterance:S: How may I help you? U: book a ticket
+Sat Feb 10 18:06:41 IST 2018 domain:trip user: sessionId: clientIP: task:start utterance:S: What can I do for you? U: book a ticket
+Sat Feb 10 18:08:20 IST 2018 domain:dummy2 user: sessionId: clientIP: task:start utterance:S: How may I help you? U: book
+Sat Feb 10 22:13:39 IST 2018 domain:trip user: sessionId: clientIP: task:start utterance:S: What can I do for you? U: book
+Sat Feb 10 22:32:21 IST 2018 domain:trip user: sessionId: clientIP: task:start utterance:S: What can I do for you? U: book

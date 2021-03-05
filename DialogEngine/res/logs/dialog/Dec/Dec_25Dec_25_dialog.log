@@ -1,0 +1,5 @@
+Tue Dec 25 14:41:52 IST 2018 domain:trip_en clientIP:10.88.250.75 user:John sessionId:d3-ITZXXNRNIRLJ dialog:"S":"How may I help you?","U":"Hi","S":"Hello! How are you?  What can I do for you?","U":"book a ticket","S":"where do you want to go?","U":"pune","S":"for how many persons?","U":"4","S":"when do you want to leave?"
+Tue Dec 25 14:41:52 IST 2018 domain:trip_en clientIP:10.88.251.210 user:John sessionId:d4-6PHOKS91PO3N dialog:"S":"How may I help you?"
+Tue Dec 25 14:41:52 IST 2018 domain:trip_en clientIP:10.88.250.75 user:John sessionId:d2-SSMYM7GPSFHY dialog:"S":"What can I do for you?"
+Tue Dec 25 14:41:52 IST 2018 domain:trip_en clientIP:10.88.251.210 user:John sessionId:d1-FO4IKRNUM3CN dialog:"S":"How may I help you?","U":"#getTripInformation","S":"where do you want to go?"
+Tue Dec 25 14:41:52 IST 2018 domain:trip_en clientIP:10.88.251.210 user:John sessionId:d5-CENKFYVTKUOY dialog:"S":"How may I help you?"

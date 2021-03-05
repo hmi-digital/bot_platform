@@ -1,0 +1,9 @@
+Thu Jan 14 14:40:32 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:start utterance:S: What can I do for you? U: Weather book
+Thu Jan 14 14:41:12 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getWeatherInformation utterance:S: do you want to know about other cities? U: weather book
+Thu Jan 14 15:08:12 IST 2021 domain:trip_en user:John sessionId:d1-YDBZJIE5VTTN clientIP:192.168.1.3 task:start utterance:S: What can I do for you? U: what is CVV number?
+Thu Jan 14 15:09:20 IST 2021 domain:trip_en user:John sessionId:d1-YDBZJIE5VTTN clientIP:192.168.1.3 task:start utterance:S: How may I help you? U: tell me more about London
+Thu Jan 14 15:09:32 IST 2021 domain:trip_en user:John sessionId:d1-YDBZJIE5VTTN clientIP:192.168.1.3 task:start utterance:S: How may I help you? U: give me more information
+Thu Jan 14 15:12:34 IST 2021 domain:trip_en user:John sessionId:d1-YDBZJIE5VTTN clientIP:192.168.1.3 task:start utterance:S: What can I do for you? U: How is weahter
+Thu Jan 14 15:13:06 IST 2021 domain:trip_en user:John sessionId:d2-PH7KPRMALZCT clientIP:192.168.1.3 task:getTripInformation utterance:S: what city do you want to travel? U: Mumabi
+Thu Jan 14 15:32:14 IST 2021 domain:trip_en user:John sessionId:d2-U2D2BA4ZUGIG clientIP:192.168.1.3 task:getTripInformation utterance:S: for how many persons? U: 67
+Thu Jan 14 21:33:25 IST 2021 domain:trip_en user:John sessionId:d1-TFQKQBWCAOX3 clientIP:192.168.1.3 task:start utterance:S: What can I do for you? U: weather book

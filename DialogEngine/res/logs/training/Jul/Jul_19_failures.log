@@ -1,0 +1,5 @@
+Sun Jul 19 08:18:46 IST 2020 domain:banking_ar user:test sessionId: clientIP: task:start utterance:S: What can I do for you? U: last transctions
+Sun Jul 19 23:20:29 IST 2020 domain:test user:test sessionId: clientIP: task:test utterance:S: Are you OK to start? U: ok
+Sun Jul 19 23:20:48 IST 2020 domain:test user:test sessionId: clientIP: task:EVT_getARReady utterance:S: say OK to start U: OK
+Sun Jul 19 23:30:13 IST 2020 domain:test user:test sessionId: clientIP: task:test utterance:S: Are you OK to start? U: OK
+Sun Jul 19 23:53:17 IST 2020 domain:test user:test sessionId: clientIP: task:test utterance:S: Are you OK to start? U: ys

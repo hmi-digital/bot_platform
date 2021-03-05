@@ -1,0 +1,14 @@
+Mon Dec 28 11:01:00 IST 2020 domain:trip_en user:John sessionId:d1-U7RXY9WX5U5C clientIP:192.168.0.101 task:getTripInformation TYPE:GroovyAction@44a92419
+Mon Dec 28 11:06:13 IST 2020 domain:trip_en user:John sessionId:d1-U7RXY9WX5U5C clientIP:192.168.0.101 task:getWeatherInformation TYPE:HTTPAction@61362c3f
+Mon Dec 28 11:09:54 IST 2020 domain:trip_en user:rohit sessionId:d3-TKT24LC2WDY1 clientIP:192.168.0.101 task:getWeatherInformation TYPE:HTTPAction@7d95ac47
+Mon Dec 28 16:47:55 IST 2020 domain:trip_en user:John sessionId:d1-VFLIVP2PL3GS clientIP:192.168.0.101 task:EVT_getUserOption TYPE:GroovyAction@21994328
+Mon Dec 28 16:48:08 IST 2020 domain:trip_en user:John sessionId:d1-VFLIVP2PL3GS clientIP:192.168.0.101 task:cancelTask TYPE:GroovyAction@58a377ca
+Mon Dec 28 18:13:15 IST 2020 domain:trip_en user:John sessionId:d1-1XDSBMMVRDFX clientIP:192.168.0.101 task:getWeatherInformation TYPE:HTTPAction@2517e08b
+Mon Dec 28 18:31:11 IST 2020 domain:trip_en user:John sessionId:d1-D3BOLB6KQEBN clientIP:192.168.0.101 task:getWikipediaCityInfo TYPE:HTTPAction@509aa5ac
+Mon Dec 28 19:29:21 IST 2020 domain:trip_en user:John sessionId:d1-XYYVMUYLRCTY clientIP:192.168.0.101 task:cancelTask TYPE:GroovyAction@1ca837fb
+Mon Dec 28 19:29:49 IST 2020 domain:trip_en user:John sessionId:d1-XYYVMUYLRCTY clientIP:192.168.0.101 task:cancelTask TYPE:GroovyAction@1ca837fb
+Mon Dec 28 19:33:26 IST 2020 domain:trip_en user:John sessionId:d1-XYYVMUYLRCTY clientIP:192.168.0.101 task:cancelTask TYPE:GroovyAction@1ca837fb
+Mon Dec 28 20:13:35 IST 2020 domain:trip_en user:John sessionId:d1-FRXFBKGAQLEL clientIP:192.168.0.101 task:getWikipediaCityInfo TYPE:HTTPAction@784bd362
+Mon Dec 28 20:14:25 IST 2020 domain:trip_en user:John sessionId:d1-FRXFBKGAQLEL clientIP:192.168.0.101 task:EVT_getUserOption TYPE:GroovyAction@7b126e60
+Mon Dec 28 20:28:01 IST 2020 domain:trip_en user:puru sessionId:d1-C4TKI12PFBQU clientIP:192.168.0.101 task:getTripInformation TYPE:GroovyAction@85f0af7
+Mon Dec 28 20:30:49 IST 2020 domain:trip_en user:rohit sessionId:d2-MQC5C6NEVUUK clientIP:192.168.0.101 task:getTripInformation TYPE:GroovyAction@2771a703

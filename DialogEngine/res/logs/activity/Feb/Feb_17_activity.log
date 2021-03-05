@@ -1,0 +1,13 @@
+Wed Feb 17 10:33:07 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getTripInformation TYPE:GroovyAction@74f7d1d2
+Wed Feb 17 10:50:22 IST 2021 domain:router_en user:test sessionId:d1-DUMMYSESSION clientIP: task:configureRouter TYPE:GroovyAction@1eba372c
+Wed Feb 17 10:50:54 IST 2021 domain:router_en user:test sessionId:d1-DUMMYSESSION clientIP: task:EVT_getARReady TYPE:GroovyAction@23f3dbf0
+Wed Feb 17 10:51:19 IST 2021 domain:router_en user:test sessionId:d1-DUMMYSESSION clientIP: task:EVT_stepProcessor TYPE:GroovyAction@1dc76fa1
+Wed Feb 17 13:57:11 IST 2021 domain:trip_en user:John sessionId:d1-FVIDO0WJQOU4 clientIP:127.0.0.1 task:getTripInformation TYPE:GroovyAction@6625faa1
+Wed Feb 17 13:57:21 IST 2021 domain:trip_en user:John sessionId:d1-FVIDO0WJQOU4 clientIP:127.0.0.1 task:getWeatherInformation TYPE:HTTPAction@583eaf3b
+Wed Feb 17 13:59:12 IST 2021 domain:trip_en user:John sessionId:d1-FVIDO0WJQOU4 clientIP:127.0.0.1 task:EVT_getUserOption TYPE:GroovyAction@43de0bcf
+Wed Feb 17 13:59:16 IST 2021 domain:trip_en user:John sessionId:d1-FVIDO0WJQOU4 clientIP:127.0.0.1 task:cancelTask TYPE:GroovyAction@8dc054c
+Wed Feb 17 15:16:13 IST 2021 domain:trip_en user:John sessionId:d1-OJWYWMUEJS3Q clientIP:127.0.0.1 task:cancelTask TYPE:GroovyAction@1f2303db
+Wed Feb 17 15:22:14 IST 2021 domain:trip_en user:John sessionId:d1-8NK8AYQENMQI clientIP:127.0.0.1 task:getTripInformation TYPE:GroovyAction@251f94d9
+Wed Feb 17 15:22:19 IST 2021 domain:trip_en user:John sessionId:d1-8NK8AYQENMQI clientIP:127.0.0.1 task:getWeatherInformation TYPE:HTTPAction@3bad5607
+Wed Feb 17 15:33:17 IST 2021 domain:trip_en user:John sessionId:d1-YEIWKDDFJZLP clientIP:127.0.0.1 task:EVT_getUserOption TYPE:GroovyAction@73e483fe
+Wed Feb 17 15:33:25 IST 2021 domain:trip_en user:John sessionId:d1-YEIWKDDFJZLP clientIP:127.0.0.1 task:EVT_getConfirmation TYPE:GroovyAction@7a5b5e01

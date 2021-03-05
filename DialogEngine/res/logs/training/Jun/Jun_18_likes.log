@@ -1,0 +1,2 @@
+Mon Jun 18 21:20:36 IST 2018 domain:trip_en user:John sessionId:d1-I6LF2V4SM7Q8 clientIP:192.168.0.104 task:getTripInformation utterance:U: #getTripInformation S: Hey John , this trip to Pune costs ??? Dollars.
+Mon Jun 18 21:20:49 IST 2018 domain:trip_en user:John sessionId:d1-I6LF2V4SM7Q8 clientIP:192.168.0.104 task:getWeatherInformation utterance:U: #getWeatherInformation S: The temperature in Pune is ??.?? degrees.

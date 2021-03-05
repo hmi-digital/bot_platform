@@ -1,0 +1,39 @@
+Tue May 29 12:27:08 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: for how many persons to Pune ? U: sachin plays nice cricket
+Tue May 29 12:27:23 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: for how many persons to Pune ? U: not sure what are you saying
+Tue May 29 12:28:14 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: for how many persons to Pune ? U: not sure on this
+Tue May 29 12:43:20 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: for how many persons to Pune ? U: sachin plays cricket
+Tue May 29 12:43:30 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: for how many persons to Pune ? U: sachin does play good cricket
+Tue May 29 12:44:28 IST 2018 domain:trip_en user: sessionId: clientIP: task:cancelTask utterance:S: for how many persons to Pune ? U: not sure on this please
+Tue May 29 12:53:33 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: for how many persons to Pune ? U: nice shirt
+Tue May 29 12:53:43 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: for how many persons to Pune ? U: nice shoes
+Tue May 29 12:55:48 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: when do you want to leave? U: nice shirt
+Tue May 29 12:55:56 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: when do you want to leave? U: good shirt
+Tue May 29 13:45:35 IST 2018 domain:trip_en user: sessionId: clientIP: task:cancelTask utterance:S: when do you want to leave? U: good show
+Tue May 29 13:45:41 IST 2018 domain:trip_en user: sessionId: clientIP: task:cancelTask utterance:S: when do you want to leave? U: good show
+Tue May 29 14:00:30 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: for how many persons to Pune ? U: nice shirt
+Tue May 29 14:00:40 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: for how many persons to Pune ? U: nice shoes
+Tue May 29 14:07:15 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: for how many persons to Pune ? U: nice shows
+Tue May 29 14:07:24 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: for how many persons to Pune ? U: nice shirt
+Tue May 29 14:07:41 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: where do you want to go? U: good show
+Tue May 29 14:08:52 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: when do you want to leave? U: good shit
+Tue May 29 14:09:01 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: when do you want to leave? U: not sure
+Tue May 29 14:28:11 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: where do you want to go? U: nice to go
+Tue May 29 14:30:57 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: where do you want to go? U: nice shirt
+Tue May 29 14:31:58 IST 2018 domain:trip_en user: sessionId: clientIP: task:getWeatherInformation utterance:S: for which city do you want to know the weather? U: nice togo
+Tue May 29 14:32:05 IST 2018 domain:trip_en user: sessionId: clientIP: task:getWeatherInformation utterance:S: for which city do you want to know the weather? U: nice to go
+Tue May 29 14:35:27 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: where do you want to go? U: kill them
+Tue May 29 14:35:33 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: where do you want to go? U: kill them
+Tue May 29 14:37:10 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: where do you want to go? U: nice shirt
+Tue May 29 14:37:18 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: where do you want to go? U: good shoes
+Tue May 29 14:37:53 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: for how many persons to Mumbai ? U: good show
+Tue May 29 14:40:15 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: for how many persons to Mumbai ? U: not sure on this
+Tue May 29 14:40:43 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: when do you want to leave? U: nice shirt
+Tue May 29 14:40:57 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: when do you want to come back? U: good show
+Tue May 29 14:42:14 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: when do you want to come back? U: good show
+Tue May 29 14:42:41 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: where do you want to go? U: Hmm not sure
+Tue May 29 15:00:29 IST 2018 domain:trip_en user: sessionId: clientIP: task:start utterance:S: Hi %loginUser , How may I help you? U: nice shirt
+Tue May 29 15:00:39 IST 2018 domain:trip_en user: sessionId: clientIP: task:start utterance:S: Hi %loginUser , How may I help you? U: nice shoes
+Tue May 29 15:00:49 IST 2018 domain:trip_en user: sessionId: clientIP: task:start utterance:S: Hi %loginUser , How may I help you? U: nice curtains
+Tue May 29 15:02:18 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: where do you want to go? U: not sure
+Tue May 29 15:02:24 IST 2018 domain:trip_en user: sessionId: clientIP: task:getTripInformation utterance:S: where do you want to go? U: not sure
+Tue May 29 15:02:32 IST 2018 domain:trip_en user: sessionId: clientIP: task:cancelTask utterance:S: do you want to cancel the task? U: ??

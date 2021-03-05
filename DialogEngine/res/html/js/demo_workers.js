@@ -1,0 +1,15 @@
+var i = 0;
+
+function timedCount() {
+  i = i + 1;
+  postMessage(i);
+  setTimeout("timedCount()", 5000);
+}
+
+timedCount();
+
+
+/* self.addEventListener('message', function(e) {
+    self.postMessage(e.data);
+  }, false);
+   */

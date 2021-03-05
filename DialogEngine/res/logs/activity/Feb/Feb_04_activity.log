@@ -1,0 +1,12 @@
+Thu Feb 04 14:29:13 IST 2021 domain:mytrip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getTripInformation TYPE:GroovyAction@173b9122
+Thu Feb 04 14:29:19 IST 2021 domain:mytrip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getWeatherInformation TYPE:HTTPAction@69e05f61
+Thu Feb 04 14:29:57 IST 2021 domain:mytrip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getWikipediaCityInfo TYPE:HTTPAction@431f1eaf
+Thu Feb 04 14:30:26 IST 2021 domain:mytrip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getWeatherInformation TYPE:HTTPAction@69e05f61
+Thu Feb 04 14:31:37 IST 2021 domain:mytrip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getWeatherInformation TYPE:HTTPAction@263f04ca
+Thu Feb 04 14:32:30 IST 2021 domain:mytrip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:cancelTask TYPE:GroovyAction@6cc0bcf6
+Thu Feb 04 14:36:10 IST 2021 domain:mytrip_en user:John sessionId:d1-MVKA8BKA2TVV clientIP:127.0.0.1 task:getTripInformation TYPE:GroovyAction@7fed08ad
+Thu Feb 04 14:36:16 IST 2021 domain:mytrip_en user:John sessionId:d1-MVKA8BKA2TVV clientIP:127.0.0.1 task:getWeatherInformation TYPE:HTTPAction@339c6363
+Thu Feb 04 14:36:50 IST 2021 domain:mytrip_en user:John sessionId:d1-MVKA8BKA2TVV clientIP:127.0.0.1 task:getWikipediaCityInfo TYPE:HTTPAction@7b0e5e6a
+Thu Feb 04 14:49:37 IST 2021 domain:mytrip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getWeatherInformation TYPE:HTTPAction@263f04ca
+Thu Feb 04 15:30:53 IST 2021 domain:mytrip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getTripInformation TYPE:GroovyAction@5c77053b
+Thu Feb 04 15:30:59 IST 2021 domain:mytrip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getWeatherInformation TYPE:HTTPAction@1de9d54

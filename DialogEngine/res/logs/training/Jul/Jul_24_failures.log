@@ -1,0 +1,3 @@
+Fri Jul 24 17:54:36 IST 2020 domain:test user:John sessionId:d3-YM73VZEMXYK2 clientIP:192.168.0.105 task:start utterance:S: What can I do for you? U: Hi
+Fri Jul 24 17:54:45 IST 2020 domain:test user:John sessionId:d3-YM73VZEMXYK2 clientIP:192.168.0.105 task:start utterance:S: How may I help you? U: Hi
+Fri Jul 24 17:58:42 IST 2020 domain:test user:John sessionId:d4-YSDPNEAMG0JK clientIP:192.168.0.105 task:start utterance:S: What can I do for you? U: hi

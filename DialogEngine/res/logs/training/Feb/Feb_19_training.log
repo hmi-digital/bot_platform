@@ -1,0 +1,8 @@
+Mon Feb 19 11:47:15 IST 2018 domain:trip user: sessionId: clientIP: task:start utterance:S: How may I help you? U: how is weatehr
+Mon Feb 19 11:49:44 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation utterance:S: when do you want to leave? U: tomorroew
+Mon Feb 19 12:39:24 IST 2018 domain:trip user: sessionId: clientIP: task:start utterance:S: What can I do for you? U: #getTtipInformation pune
+Mon Feb 19 12:39:33 IST 2018 domain:trip user: sessionId: clientIP: task:start utterance:S: How may I help you? U: [A
+Mon Feb 19 12:39:44 IST 2018 domain:trip user: sessionId: clientIP: task:start utterance:S: What can I do for you? U: #getTripInformation pune
+Mon Feb 19 12:40:21 IST 2018 domain:trip user: sessionId: clientIP: task:start utterance:S: What can I do for you? U: #getTtipInformation
+Mon Feb 19 12:40:59 IST 2018 domain:trip user: sessionId: clientIP: task:start utterance:S: What can I do for you? U: #getTripInformation pune
+Mon Feb 19 16:01:04 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation utterance:S: what city do you want to travel? U: pune

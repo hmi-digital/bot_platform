@@ -1,0 +1,8 @@
+Thu Apr 12 20:08:45 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation utterance:S: what city do you want to travel? U: sachin
+Thu Apr 12 20:11:00 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation utterance:S: where do you want to go? U: sachin
+Thu Apr 12 20:11:09 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation utterance:S: what city do you want to travel? U: mumbao
+Thu Apr 12 20:11:22 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation utterance:S: for how many persons? U: nintyone
+Thu Apr 12 20:28:47 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation utterance:S: what city do you want to travel? U: sachin
+Thu Apr 12 20:28:56 IST 2018 domain:trip user: sessionId: clientIP: task:getTripInformation utterance:S: for how many persons? U: for
+Thu Apr 12 23:23:53 IST 2018 domain:trip user: sessionId: clientIP: task:getWeatherInformation utterance:S: for which city do you want to know the weather? U: sachin
+Thu Apr 12 23:39:33 IST 2018 domain:trip user: sessionId: clientIP: task:getWeatherInformation utterance:S: for which city do you want to know the weather? U: nahi

@@ -1,0 +1,4 @@
+Fri Jan 29 14:17:41 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getTripInformation TYPE:GroovyAction@3af4e0bf
+Fri Jan 29 14:19:35 IST 2021 domain:trip_en user:John sessionId:d1-ZP7XFWNGMFOM clientIP:192.168.0.103 task:getTripInformation TYPE:GroovyAction@2e5ae942
+Fri Jan 29 15:30:11 IST 2021 domain:trip_en user:John sessionId:d2-MIUKDDW2O1NH clientIP:127.0.0.1 task:getWeatherInformation TYPE:HTTPAction@f2b3efd
+Fri Jan 29 17:34:45 IST 2021 domain:trip_en user:John sessionId:d1-JJKCR9MP5LBW clientIP:127.0.0.1 task:cancelTask TYPE:GroovyAction@323a7cc0

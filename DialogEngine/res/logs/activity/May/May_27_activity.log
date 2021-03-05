@@ -1,0 +1,14 @@
+Wed May 27 08:37:14 IST 2020 domain:banking_en user:John sessionId:d1-7TDWIL6QRLPR clientIP:192.168.0.103 task:accountBalance TYPE:GroovyAction@63ebcf7d
+Wed May 27 08:39:44 IST 2020 domain:banking_en user:John sessionId:d1-7TDWIL6QRLPR clientIP:192.168.0.103 task:fundTransfer TYPE:GroovyAction@3e83e5bf
+Wed May 27 08:40:14 IST 2020 domain:banking_en user:John sessionId:d1-7TDWIL6QRLPR clientIP:192.168.0.103 task:getTransactions TYPE:GroovyAction@4f8eaf7e
+Wed May 27 08:42:52 IST 2020 domain:banking_en user:John sessionId:d1-7TDWIL6QRLPR clientIP:192.168.0.103 task:EVT_getLoanOption TYPE:GroovyAction@6e783b7
+Wed May 27 08:43:12 IST 2020 domain:banking_en user:John sessionId:d1-7TDWIL6QRLPR clientIP:192.168.0.103 task:EVT_getDetails TYPE:GroovyAction@4c3970ee
+Wed May 27 08:55:17 IST 2020 domain:banking_en user:John sessionId:d1-DJHBKEYDEOWZ clientIP:192.168.0.103 task:accountBalance TYPE:GroovyAction@9c8d330
+Wed May 27 08:55:49 IST 2020 domain:banking_en user:John sessionId:d1-DJHBKEYDEOWZ clientIP:192.168.0.103 task:fundTransfer TYPE:GroovyAction@56c990a7
+Wed May 27 08:56:36 IST 2020 domain:banking_en user:John sessionId:d1-DJHBKEYDEOWZ clientIP:192.168.0.103 task:getTransactions TYPE:GroovyAction@19b824b6
+Wed May 27 08:57:09 IST 2020 domain:banking_en user:John sessionId:d1-DJHBKEYDEOWZ clientIP:192.168.0.103 task:getTransactions TYPE:GroovyAction@19b824b6
+Wed May 27 09:07:04 IST 2020 domain:banking_en user:John sessionId:d1-ULNN1S68FWD3 clientIP:192.168.0.103 task:accountBalance TYPE:GroovyAction@208fcd97
+Wed May 27 09:07:51 IST 2020 domain:banking_en user:John sessionId:d1-ULNN1S68FWD3 clientIP:192.168.0.103 task:fundTransfer TYPE:GroovyAction@58216778
+Wed May 27 09:09:40 IST 2020 domain:banking_en user:John sessionId:d1-ULNN1S68FWD3 clientIP:192.168.0.103 task:getTransactions TYPE:GroovyAction@57bd28d1
+Wed May 27 09:13:42 IST 2020 domain:banking_en user:John sessionId:d1-ULNN1S68FWD3 clientIP:192.168.0.103 task:EVT_getLoanOption TYPE:GroovyAction@c0e8abf
+Wed May 27 09:14:02 IST 2020 domain:banking_en user:John sessionId:d1-ULNN1S68FWD3 clientIP:192.168.0.103 task:EVT_getDetails TYPE:GroovyAction@361e0627

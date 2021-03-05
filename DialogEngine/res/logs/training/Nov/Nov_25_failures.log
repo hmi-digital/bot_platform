@@ -1,0 +1,3 @@
+Sun Nov 25 19:04:39 IST 2018 domain:trip_en user:test sessionId: clientIP: task:start utterance:S: How may I help you? U: byr
+Sun Nov 25 20:46:53 IST 2018 domain:trip_en user:test sessionId: clientIP: task:getTripInformation utterance:S: where do you want to go? U: sachin plays
+Sun Nov 25 20:46:59 IST 2018 domain:trip_en user:test sessionId: clientIP: task:getTripInformation utterance:S: what city do you want to travel? U: sachin plays

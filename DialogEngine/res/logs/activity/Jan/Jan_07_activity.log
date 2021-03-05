@@ -1,0 +1,5 @@
+Mon Jan 07 15:54:33 IST 2019 domain:trip_en user:John sessionId:d1-WFZSSCLOKJUH clientIP:10.88.250.43 task:getTripInformation TYPE:GroovyAction@7b8ab537
+Mon Jan 07 15:55:46 IST 2019 domain:trip_en user:John sessionId:d1-WFZSSCLOKJUH clientIP:10.88.250.43 task:helpTask TYPE:GroovyAction@72b3a538
+Mon Jan 07 15:58:21 IST 2019 domain:trip_en user:John sessionId:d1-TF7OEC2KXSXH clientIP:10.88.250.43 task:getTripInformation TYPE:GroovyAction@3cb8b33c
+Mon Jan 07 15:59:02 IST 2019 domain:trip_en user:John sessionId:d1-TF7OEC2KXSXH clientIP:10.88.250.43 task:getWeatherInformation TYPE:HTTPAction@69fbe04c
+Mon Jan 07 15:59:45 IST 2019 domain:trip_en user:John sessionId:d1-TF7OEC2KXSXH clientIP:10.88.250.43 task:getTripInformation TYPE:GroovyAction@3cb8b33c

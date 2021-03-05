@@ -1,0 +1,19 @@
+{
+    "domain": "travelClass",
+    "classes": [{
+            "name": "business",
+            "utterances": ["business class",
+		"by business class"
+		]
+	},
+        {
+            "name": "economy",
+            "utterances": ["economy class"
+		]
+	},
+        {
+            "name": "first",
+            "utterances": ["first class"]
+	}
+	]
+}

@@ -1,0 +1,10 @@
+Sun Jun 24 14:04:47 IST 2018 domain:trip_en user:test sessionId: clientIP: task:getWeatherInformation TYPE:HTTPAction@6221a451
+Sun Jun 24 14:06:41 IST 2018 domain:trip_en user:test sessionId: clientIP: task:getWikipediaCityInfo TYPE:HTTPAction@7b36aa0c
+Sun Jun 24 14:18:28 IST 2018 domain:trip_en user:test sessionId: clientIP: task:getWikipediaCityInfo TYPE:HTTPAction@6221a451
+Sun Jun 24 14:21:38 IST 2018 domain:trip_en user:John sessionId:d1-VIA7MPRNP5J8 clientIP:192.168.0.105 task:getWikipediaCityInfo TYPE:HTTPAction@72def3a8
+Sun Jun 24 14:28:11 IST 2018 domain:trip_en user:John sessionId:d1-HDHLKIGTRJPZ clientIP:192.168.0.105 task:getWikipediaCityInfo TYPE:HTTPAction@102c1f0d
+Sun Jun 24 14:29:09 IST 2018 domain:trip_en user:John sessionId:d2-T4MKDBYGO0SF clientIP:192.168.0.105 task:getWikipediaCityInfo TYPE:HTTPAction@c5b1d20
+Sun Jun 24 14:29:29 IST 2018 domain:trip_en user:John sessionId:d2-T4MKDBYGO0SF clientIP:192.168.0.105 task:getWeatherInformation TYPE:HTTPAction@690bf046
+Sun Jun 24 14:29:59 IST 2018 domain:trip_en user:John sessionId:d2-T4MKDBYGO0SF clientIP:192.168.0.105 task:getTripInformation TYPE:GroovyAction@4237b64e
+Sun Jun 24 16:35:06 IST 2018 domain:trip_en user:John sessionId:d1-WKQ5J7XM07F6 clientIP:192.168.0.105 task:getWeatherInformation TYPE:HTTPAction@1fc23b22
+Sun Jun 24 16:35:32 IST 2018 domain:trip_en user:John sessionId:d1-WKQ5J7XM07F6 clientIP:192.168.0.105 task:getWikipediaCityInfo TYPE:HTTPAction@6e80a5a8

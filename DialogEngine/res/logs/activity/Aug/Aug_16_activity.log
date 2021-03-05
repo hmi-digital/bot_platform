@@ -1,0 +1,7 @@
+Fri Aug 16 10:50:24 IST 2019 domain:finovate_v2 user:test sessionId: clientIP: task:getTransactions TYPE:GroovyAction@6e171cd7
+Fri Aug 16 10:52:34 IST 2019 domain:finovate_v2 user:John sessionId:d1-84YXBLNFRNJ9 clientIP:10.88.250.203 task:getTransactions TYPE:GroovyAction@64ee5073
+Fri Aug 16 11:59:23 IST 2019 domain:finovate_v2 user:John sessionId:d1-HSSBJJQFFOYN clientIP:10.88.250.203 task:getTransactions TYPE:GroovyAction@204d7311
+Fri Aug 16 12:01:52 IST 2019 domain:finovate_v2 user:John sessionId:d1-HSSBJJQFFOYN clientIP:10.88.250.203 task:getCreditCardLimit TYPE:GroovyAction@79cbdd36
+Fri Aug 16 12:06:25 IST 2019 domain:trip_en user:John sessionId:d1-SIBKYVCIL2S7 clientIP:10.88.250.203 task:getTripInformation TYPE:GroovyAction@514180ec
+Fri Aug 16 12:06:56 IST 2019 domain:trip_en user:John sessionId:d1-SIBKYVCIL2S7 clientIP:10.88.250.203 task:getWeatherInformation TYPE:HTTPAction@3da87e1e
+Fri Aug 16 12:08:30 IST 2019 domain:trip_en user:John sessionId:d1-SIBKYVCIL2S7 clientIP:10.88.250.203 task:getTripInformation TYPE:GroovyAction@514180ec

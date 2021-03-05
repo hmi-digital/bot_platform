@@ -1,0 +1,12 @@
+Wed Jul 01 13:35:38 IST 2020 domain:trip_hi user:test sessionId: clientIP: task:start utterance:S: मैं आपकी क्या मदद कर सकता हूँ। U: मुझे टिकट बुक करना है
+Wed Jul 01 13:37:37 IST 2020 domain:trip_en user:test sessionId: clientIP: task:start utterance:S: How may I help you? U: I want to book a ticket
+Wed Jul 01 13:38:32 IST 2020 domain:trip_da user:test sessionId: clientIP: task:start utterance:S: Hvordan kan jeg h jælpe dig? U: Kan du bestille mig på flyet
+Wed Jul 01 13:49:37 IST 2020 domain:trip_en user:test sessionId: clientIP: task:start utterance:S: What can I do for you? U: book a ticket
+Wed Jul 01 14:27:54 IST 2020 domain:trip_en user:test sessionId: clientIP: task:getTripInformation utterance:S: what city do you want to travel? U: mumabi
+Wed Jul 01 14:28:38 IST 2020 domain:trip_hi user:test sessionId: clientIP: task:start utterance:S: मैं आपकी क्या मदद कर सकता हूँ। U: मुझे रिज़र्वेशन कराना है
+Wed Jul 01 14:32:14 IST 2020 domain:trip_hi user:test sessionId: clientIP: task:start utterance:S: मैं आपकी क्या मदद कर सकता हूँ। U: मुझे रिज़र्वेशन कराना है
+Wed Jul 01 14:46:42 IST 2020 domain:trip_hi user:test sessionId: clientIP: task:start utterance:S: मैं आपकी क्या मदद कर सकता हूँ। U: मुझे रिज़र्वेशन कराना है
+Wed Jul 01 16:02:46 IST 2020 domain:trip_en user:test sessionId: clientIP: task:start utterance:S: How may I help you? U: I want to book a ticket
+Wed Jul 01 16:04:23 IST 2020 domain:trip_en user:test sessionId: clientIP: task:start utterance:S: What can I do for you? U: book a ticket
+Wed Jul 01 16:06:59 IST 2020 domain:trip_en user:test sessionId: clientIP: task:start utterance:S: How may I help you? U: book a ticket
+Wed Jul 01 16:18:43 IST 2020 domain:trip_en user:test sessionId: clientIP: task:getTripInformation utterance:S: what city do you want to travel? U: Mumabi

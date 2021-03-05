@@ -1,0 +1,11 @@
+Mon Jan 11 16:49:30 IST 2021 domain:trip_en user:test sessionId: clientIP: task:start utterance:S: How may I help you? U: I want to book a ticket
+Mon Jan 11 16:52:22 IST 2021 domain:trip_en user:test sessionId: clientIP: task:start utterance:S: How may I help you? U: book a ticket
+Mon Jan 11 17:22:43 IST 2021 domain:trip_en user:test sessionId: clientIP: task:start utterance:S: What can I do for you? U: I want to book a ticket
+Mon Jan 11 17:38:26 IST 2021 domain:trip_en user:test sessionId:d9-TESTSESSION clientIP: task:start utterance:S: How may I help you? U: want to book a ticket
+Mon Jan 11 18:33:57 IST 2021 domain:trip_en user:test sessionId:d9-TESTSESSION clientIP: task:start utterance:S: What can I do for you? U: I want to book a ticket
+Mon Jan 11 20:26:16 IST 2021 domain:trip_en user:test sessionId:d5-DUMMYSESSION clientIP: task:start utterance:S: How may I help you? U: How is weather in London
+Mon Jan 11 23:07:46 IST 2021 domain:trip_en user:test sessionId:d6-DUMMYSESSION clientIP: task:start utterance:S: What can I do for you? U: book
+Mon Jan 11 23:08:32 IST 2021 domain:trip_en user:test sessionId:d6-DUMMYSESSION clientIP: task:start utterance:S: What can I do for you? U: how is weather
+Mon Jan 11 23:12:44 IST 2021 domain:trip_en user:test sessionId:d6-DUMMYSESSION clientIP: task:start utterance:S: What can I do for you? U: this is not good
+Mon Jan 11 23:13:49 IST 2021 domain:trip_en user:test sessionId:d6-DUMMYSESSION clientIP: task:start utterance:S: How may I help you? U: How is weather
+Mon Jan 11 23:21:38 IST 2021 domain:trip_en user:test sessionId:d6-DUMMYSESSION clientIP: task:start utterance:S: What can I do for you? U: book a ticket

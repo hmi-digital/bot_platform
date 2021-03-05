@@ -1,0 +1,7 @@
+Mon Jul 22 15:43:08 IST 2019 domain:trip_en user:John sessionId:d1-P6UJP0RWPQTX clientIP:10.88.248.165 task:getWeatherInformation TYPE:HTTPAction@614b4aed
+Mon Jul 22 15:43:48 IST 2019 domain:trip_en user:John sessionId:d1-P6UJP0RWPQTX clientIP:10.88.248.165 task:getTripInformation TYPE:GroovyAction@705729c8
+Mon Jul 22 15:47:18 IST 2019 domain:trip_en user:John sessionId:d2-CHPFY51WQKLC clientIP:10.88.248.165 task:getWeatherInformation TYPE:HTTPAction@2426c2ad
+Mon Jul 22 15:47:59 IST 2019 domain:trip_en user:John sessionId:d2-CHPFY51WQKLC clientIP:10.88.248.165 task:getTripInformation TYPE:GroovyAction@56a8be30
+Mon Jul 22 15:50:14 IST 2019 domain:trip_en user:John sessionId:d3-9LBOOXC01QYA clientIP:10.88.248.165 task:cancelTask TYPE:GroovyAction@d587578
+Mon Jul 22 15:50:56 IST 2019 domain:trip_en user:John sessionId:d3-9LBOOXC01QYA clientIP:10.88.248.165 task:cancelTask TYPE:GroovyAction@d587578
+Mon Jul 22 15:51:30 IST 2019 domain:trip_en user:John sessionId:d3-9LBOOXC01QYA clientIP:10.88.248.165 task:cancelTask TYPE:GroovyAction@d587578

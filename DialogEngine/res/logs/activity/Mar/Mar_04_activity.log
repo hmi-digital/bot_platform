@@ -1,0 +1,4 @@
+Thu Mar 04 10:26:02 UTC 2021 domain:trip_en user:John sessionId:d1-NUOLKBMFCG9X clientIP:172.20.0.1 task:getTripInformation TYPE:GroovyAction@6b73fa9f
+Thu Mar 04 10:26:17 UTC 2021 domain:trip_en user:John sessionId:d1-NUOLKBMFCG9X clientIP:172.20.0.1 task:getWeatherInformation TYPE:HTTPAction@4c22d7e7
+Thu Mar 04 17:54:32 UTC 2021 domain:trip_en user:John sessionId:d1-7RE258LF6GQZ clientIP:172.20.0.1 task:getWeatherInformation TYPE:HTTPAction@2ff48ca
+Thu Mar 04 17:54:51 UTC 2021 domain:trip_en user:John sessionId:d1-7RE258LF6GQZ clientIP:172.20.0.1 task:getWikipediaCityInfo TYPE:HTTPAction@6c8dcc09

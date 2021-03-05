@@ -1,0 +1,5 @@
+Sat Sep 29 12:24:16 IST 2018 domain:trip_test user:test sessionId: clientIP: task:start utterance:S: Hi test , How may I help you? U: need to test
+Sat Sep 29 12:25:06 IST 2018 domain:trip_test user:test sessionId: clientIP: task:start utterance:S: Hi test , How may I help you? U: need to test
+Sat Sep 29 12:58:47 IST 2018 domain:trip_test user:John sessionId:d1-BIYYUZI62NP8 clientIP:192.168.0.10 task:start utterance:S: Hi John , How may I help you? U: #displayText null
+Sat Sep 29 13:04:04 IST 2018 domain:trip_test user:John sessionId:d1-E3Z4NQBWKBVZ clientIP:192.168.0.10 task:getTripInformation utterance:S: where do you want to go? U: .outlook
+Sat Sep 29 18:43:18 IST 2018 domain:trip_test user:test sessionId: clientIP: task:start utterance:S: Hi test , How may I help you? U: #textDisplay

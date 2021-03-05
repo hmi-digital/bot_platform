@@ -1,0 +1,3 @@
+Thu Feb 04 14:29:40 IST 2021 domain:mytrip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:start utterance:S: How may I help you? U: tell me more about
+Thu Feb 04 14:30:34 IST 2021 domain:mytrip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:start utterance:S: for which city do you want to know the weather? U: no
+Thu Feb 04 14:36:34 IST 2021 domain:mytrip_en user:John sessionId:d1-MVKA8BKA2TVV clientIP:127.0.0.1 task:start utterance:S: What can I do for you? U: City information

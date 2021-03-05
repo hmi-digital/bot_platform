@@ -1,0 +1,5 @@
+Tue Sep 18 23:32:45 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_Step_2_Bayer utterance:S:  U: prev
+Tue Sep 18 23:32:51 IST 2018 domain:trip_test user:test sessionId: clientIP: task:EVT_Step_2_Bayer utterance:S:  U: PREV
+Tue Sep 18 23:52:23 IST 2018 domain:trip_test user:John sessionId:d1-LQ0MSYMV3KRD clientIP:192.168.0.105 task:getTripInformation utterance:S: what is your mobile number? U: city:Pune; 4; 5555577777; Economy;
+Tue Sep 18 23:52:40 IST 2018 domain:trip_test user:John sessionId:d1-LQ0MSYMV3KRD clientIP:192.168.0.105 task:getTripInformation utterance:S: what is your mobile number? U: city:Pune; 4; 1234554321; Economy;
+Tue Sep 18 23:53:19 IST 2018 domain:trip_test user:John sessionId:d1-LQ0MSYMV3KRD clientIP:192.168.0.105 task:getTripInformation utterance:S: what is your mobile number? U: 999999999

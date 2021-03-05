@@ -1,0 +1,5 @@
+Mon Jul 13 16:19:40 IST 2020 domain:trip_en user:John sessionId:d9-22O3XTJEVCEU clientIP:0:0:0:0:0:0:0:1 task:getTripInformation TYPE:GroovyAction@7793e424
+Mon Jul 13 16:20:05 IST 2020 domain:trip_en user:John sessionId:d9-22O3XTJEVCEU clientIP:0:0:0:0:0:0:0:1 task:getWeatherInformation TYPE:HTTPAction@740585e0
+Mon Jul 13 16:20:51 IST 2020 domain:trip_en user:John sessionId:d9-22O3XTJEVCEU clientIP:0:0:0:0:0:0:0:1 task:getWeatherInformation TYPE:HTTPAction@740585e0
+Mon Jul 13 16:36:09 IST 2020 domain:trip_en user:John sessionId:d10-YHKHYHTAA6VN clientIP:0:0:0:0:0:0:0:1 task:getWeatherInformation TYPE:HTTPAction@6b9e21b3
+Mon Jul 13 17:24:32 IST 2020 domain:trip_en user:John sessionId:d18-FRZUGQQCZJJQ clientIP:0:0:0:0:0:0:0:1 task:getWeatherInformation TYPE:HTTPAction@620d9b58

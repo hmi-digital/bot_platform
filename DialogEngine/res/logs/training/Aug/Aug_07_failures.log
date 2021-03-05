@@ -1,0 +1,5 @@
+Wed Aug 07 13:31:36 IST 2019 domain:trip_en user:test sessionId: clientIP: task:start utterance:S: What can I do for you? U: book a ticket
+Wed Aug 07 14:36:08 IST 2019 domain:trip_en user:test sessionId: clientIP: task:start utterance:S: How may I help you? U: i want to book a ticket
+Wed Aug 07 14:49:05 IST 2019 domain:trip_en user:John sessionId:d1-4DWBPDSNQSHH clientIP:10.88.252.88 task:start utterance:S: What can I do for you? U: book a ticket
+Wed Aug 07 14:58:54 IST 2019 domain:trip_en user:John sessionId:d2-LAYRN0I1XXRN clientIP:10.88.252.88 task:start utterance:S: How may I help you? U: book a ticket
+Wed Aug 07 15:35:51 IST 2019 domain:trip_en user:John sessionId:d2-WAM7RHPRYBNA clientIP:10.88.252.88 task:start utterance:S: What can I do for you? U: book a ticket

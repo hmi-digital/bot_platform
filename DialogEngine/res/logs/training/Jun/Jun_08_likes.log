@@ -1,0 +1,4 @@
+Fri Jun 08 15:48:56 IST 2018 domain:trip_en user:John sessionId:d1-5C7EBSGNDDUH clientIP:10.88.248.94 task:getTripInformation utterance:U: book a ticket S: Hey John and d?-?C?????????? , this trip to Pune costs ??? Dollars. We have taken additional info Good;
+Fri Jun 08 15:49:41 IST 2018 domain:trip_en user:John sessionId:d1-5C7EBSGNDDUH clientIP:10.88.248.94 task:DOMAIN_FAQ utterance:U: what is ??? ? S: ATM is cash withdrawl machine. 
+Fri Jun 08 22:30:18 IST 2018 domain:trip_en user:John sessionId:d1-SQJMTYXZZCOO clientIP:192.168.0.102 task:getTripInformation utterance:U: I want to book a ticket for my family S: Hey John and d?-???????????? , this trip to Pune costs ??? Dollars. We have taken additional info good;
+Fri Jun 08 22:32:26 IST 2018 domain:trip_en user:John sessionId:d1-SQJMTYXZZCOO clientIP:192.168.0.102 task:DOMAIN_FAQ utterance:U: What is ??? ? S: ATM is cash withdrawl machine. 

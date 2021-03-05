@@ -1,0 +1,8 @@
+Thu Jan 28 10:06:03 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:start utterance:S: What can I do for you? U: What is CVV number
+Thu Jan 28 22:40:58 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:start utterance:S: How may I help you? U: Book a ticket
+Thu Jan 28 22:50:40 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:start utterance:S: What can I do for you? U: book a ticket
+Thu Jan 28 22:56:54 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getTripInformation utterance:S: where do you want to go? U: mumabi
+Thu Jan 28 23:00:05 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:start utterance:S: What can I do for you? U: book weather
+Thu Jan 28 23:04:46 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:getTripInformation utterance:S: what city do you want to travel? U: Mumabi
+Thu Jan 28 23:05:09 IST 2021 domain:trip_en user:test sessionId:d1-DUMMYSESSION clientIP: task:start utterance:S: What can I do for you? U: book weather
+Thu Jan 28 23:22:26 IST 2021 domain:trip_en user:John sessionId:d1-NSWJPENX4LMT clientIP:127.0.0.1 task:getWeatherInformation utterance:S: for which city do you want to know the weather? U: Kolkatta

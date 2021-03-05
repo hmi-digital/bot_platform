@@ -1,0 +1,2 @@
+Tue Jun 02 20:28:55 IST 2020 domain:banking_en user:John sessionId:d1-3YLUOJSRW7HZ clientIP:192.168.0.102 task:fundTransfer TYPE:GroovyAction@2be5e4ac
+Tue Jun 02 20:29:08 IST 2020 domain:banking_en user:John sessionId:d1-3YLUOJSRW7HZ clientIP:192.168.0.102 task:accountBalance TYPE:GroovyAction@36f9b9de

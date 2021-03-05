@@ -1,0 +1,3 @@
+Mon Jan 07 15:55:20 IST 2019 domain:trip_en user:John sessionId:d1-WFZSSCLOKJUH clientIP:10.88.250.43 task:getTripInformation utterance:S: when do you want to leave? U: hey sorry I want to go to Puri
+Mon Jan 07 15:55:35 IST 2019 domain:trip_en user:John sessionId:d1-WFZSSCLOKJUH clientIP:10.88.250.43 task:getTripInformation utterance:S: when do you want to leave? U: sorry I want to go to London
+Mon Jan 07 15:59:13 IST 2019 domain:trip_en user:John sessionId:d1-TF7OEC2KXSXH clientIP:10.88.250.43 task:getWeatherInformation utterance:S: do you want to know about other cities? U: Naukri

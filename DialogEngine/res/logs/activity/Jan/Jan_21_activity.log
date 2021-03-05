@@ -1,0 +1,6 @@
+Tue Jan 21 16:50:30 IST 2020 domain:finovate_en user:John sessionId:d1-M6ZSSLQYVACB clientIP:10.88.252.35 task:createGoal TYPE:GroovyAction@383c3c91
+Tue Jan 21 16:50:32 IST 2020 domain:finovate_en user:John sessionId:d1-M6ZSSLQYVACB clientIP:10.88.252.35 task:tsk_notification TYPE:GroovyAction@3e09fa8c
+Tue Jan 21 16:51:07 IST 2020 domain:finovate_en user:John sessionId:d1-M6ZSSLQYVACB clientIP:10.88.252.35 task:getCreditCardLimit TYPE:GroovyAction@3d77124c
+Tue Jan 21 16:51:50 IST 2020 domain:finovate_en user:John sessionId:d1-M6ZSSLQYVACB clientIP:10.88.252.35 task:requestCreditLimitIncrease TYPE:GroovyAction@7bd9b0cc
+Tue Jan 21 16:51:57 IST 2020 domain:finovate_en user:John sessionId:d1-M6ZSSLQYVACB clientIP:10.88.252.35 task:lowRiskProfile TYPE:GroovyAction@5a2a07fe
+Tue Jan 21 16:51:57 IST 2020 domain:finovate_en user:John sessionId:d1-M6ZSSLQYVACB clientIP:10.88.252.35 task:confirmToTransfer TYPE:GroovyAction@7e19ad55
