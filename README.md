@@ -1,6 +1,6 @@
 ## Docker enabled Bot deployment
 
-This repo provides state-of-the-art bot platform built using open source platform.
+This repo provides state-of-the-art bot platform built using open source software.
 
 Overview
 --------
