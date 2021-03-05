@@ -1,13 +1,13 @@
 ## Docker enabled Bot deployment
 
-This repo provides state-of-the-art bot platfomr built using open source platform.
+This repo provides state-of-the-art bot platform built using open source platform.
 
 Overview
 --------
 
 <b>Why Docker ?</b>
 
-To shift from traditional waterfall to  modern DevOps approach of softwre delivery, one needs a distributed microservice architecture using Docker and Kubernetes.
+To shift from traditional waterfall to  modern DevOps approach of software delivery, one needs a distributed microservice architecture using Docker and Kubernetes.
 The option of using Docker is portable, flexible and easy to deploy.
 
 It makes use of docker-compose tool for running multi-container applications on Docker defined using the Compose file format.(docker-compose.yml)
@@ -15,7 +15,7 @@ A Compose file is used to define how one or more containers that make up your ap
 
 Docker Compose tool is already included in Docker Desktop for Windows and macOS.
 
-Prerequiste
+Prerequisite
 -----------
 
 Download [Docker Desktop for Mac or Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows) . [Docker Compose](https://docs.docker.com/compose) will be automatically installed. On Linux, make sure you have the latest version of [Compose](https://docs.docker.com/compose/install/).
@@ -24,7 +24,7 @@ Architecture
 ------------
 Bot platform requires following services -  
     
-- Broker Engine - consist of Zookeeper (Container #1) and Kafka (COntainer #2)
+- Broker Engine - consist of Zookeeper (Container #1) and Kafka (Container #2)
 - NLP Engine - (Container #3)
 - Dialog Engine - (Container #4)
 
@@ -35,11 +35,11 @@ The architecture shows different services and their interaction -
 Getting Started
 ---------------
 
-+ Clone or download this repo to your prefered directory
++ Clone or download this repo to your preferred directory
 + You should have following folder structure
 
-    - Documents
     - DialogEngine
+    - Documents
     - NLPEngine
     - docker-compose.yml
 
@@ -69,7 +69,7 @@ User: I want to book a ticket
 Bot: Please tell me what city do you want to travel?
 User: I want to start from Atlanta
 Bot: And for how many persons?
-User: How is weather in Atlanata?
+User: How is weather in Atlanta?
 Bot: The temperature in Atlanta is 21.54 degrees. for how many persons?
 User: for 4 persons
 Bot: When do you want to leave?
