@@ -30,7 +30,7 @@ Bot platform requires following services -
 
 The architecture shows different services and their interaction -
 
-<img src="https://github.com/hmi-digital/bot_platform/blob/master/bot_platform/Documents/architecture.png" alt="Platform Architecture"/>
+<img src="https://github.com/hmi-digital/bot_platform/blob/main/Documents/architecture.png" alt="Platform Architecture"/>
 
 Getting Started
 ---------------
